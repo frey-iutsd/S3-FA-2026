@@ -1,6 +1,6 @@
 # Tableur S3 — BUT2 GEA FA 2026-2027
 
-IUT de Saint-Denis, Université Sorbonne Paris Nord. Enseignant : Jonas Frey (de préférence sur Teams, sinon jonas.frey@univ-paris13.fr).
+IUT de Saint-Denis, Université Sorbonne Paris Nord. Enseignant : Jonas Frey. Contact : de préférence sur Teams, sinon par e-mail (jonas.frey@univ-paris13.fr).
 
 Pour chaque séance, vous trouverez ici l'énoncé, le classeur de départ et le diaporama. Le classeur à remettre est distribué par le devoir Teams de la séance : travaillez dans la copie du devoir, pas dans un fichier téléchargé ici.
 
