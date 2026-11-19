@@ -10,3 +10,5 @@ Pour chaque séance, vous trouverez ici l'énoncé, le classeur de départ et le
 | [2](seance2/) | lun. 9 nov. 2026 | Importer et nettoyer des données réelles — vos données : [seance2/donnees](seance2/donnees/) |
 | 3 | lun. 23 nov. 2026 | Tableaux croisés dynamiques et tableau de bord |
 | 4 | mer. 25 nov. 2026 | Examen écrit (1 h, sur papier) |
+
+**Examen blanc** (pour s'entraîner, non noté) : [sujet](examen-blanc/examen-blanc.pdf) · [corrigé](examen-blanc/examen-blanc-corrige.pdf)
