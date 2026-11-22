@@ -1,0 +1,114 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-1065-001	01/07/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Informatique	Souris sans fil	10	17,80
+CMD-1065-002	02/07/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Écran 24 pouces	3	133,90
+CMD-1065-003	06/07/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	3	146,70
+CMD-1065-003	06/07/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	20	5,60
+CMD-1065-004	22/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,40
+CMD-1065-005	27/07/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	25	7,40
+CMD-1065-006	06/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	6	126,50
+CMD-1065-006	06/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,90
+CMD-1065-007	06/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	2	12,40
+CMD-1065-007	06/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	20	6,90
+CMD-1065-008	07/08/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	3	37,20
+CMD-1065-008	07/08/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Informatique	Clavier	2	29,90
+CMD-1065-009	11/08/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	20	4,00
+CMD-1065-009	11/08/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	6	146,70
+CMD-1065-010	17/08/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	5	133,90
+CMD-1065-010	17/08/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	50	7,40
+CMD-1065-011	19/08/2026	Restaurant Le Saint-Do	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	20	7,40
+CMD-1065-012	25/08/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	8,90
+CMD-1065-013	26/08/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	11,40
+CMD-1065-013	26/08/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	10	5,60
+CMD-1065-013	26/08/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,40
+CMD-1065-014	27/08/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	20	2,60
+CMD-1065-014	27/08/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	20	4,00
+CMD-1065-015	28/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	11,40
+CMD-1065-015	28/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	146,70
+CMD-1065-015	28/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	3,10
+CMD-1065-016	31/08/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,90
+CMD-1065-016	31/08/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	20	4,00
+CMD-1065-017	07/09/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	20	3,10
+CMD-1065-017	07/09/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	25	5,60
+CMD-1065-018	09/09/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	6	146,70
+CMD-1065-018	09/09/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	10	6,90
+CMD-1065-018	09/09/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	2	4,00
+CMD-1065-019	10/09/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Écran 24 pouces	10	133,90
+CMD-1065-020	14/09/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	20	5,60
+CMD-1065-021	14/09/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	10	3,10
+CMD-1065-021	14/09/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	10	5,60
+CMD-1065-021	14/09/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Clé USB 64 Go	3	12,40
+CMD-1065-021	14/09/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	10	2,60
+CMD-1065-022	14/09/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	10	2,60
+CMD-1065-023	15/09/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Informatique	Clé USB 64 Go	3	12,40
+CMD-1065-023	15/09/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Classement	Chemises cartonnées (lot de 50)	20	11,40
+CMD-1065-023	15/09/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	2	8,90
+CMD-1065-023	15/09/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	10	7,40
+CMD-1065-024	22/09/2026	Ferreira Rénovation	Grand Est	Léa Muller	Mobilier	Chaise de bureau	4	146,70
+CMD-1065-024	22/09/2026	Ferreira Rénovation	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	6	126,50
+CMD-1065-025	24/09/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,90
+CMD-1065-026	24/09/2026	Imprimerie Du Stade	Hauts-de-France	Karim Diallo	Informatique	Souris sans fil	3	17,80
+CMD-1065-027	28/09/2026	Ferreira Rénovation	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	5	6,90
+CMD-1065-027	28/09/2026	Ferreira Rénovation	Grand Est	Léa Muller	Informatique	Écran 24 pouces	1	133,90
+CMD-1065-028	28/09/2026	Imprimerie Du Stade	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-1065-028	28/09/2026	Imprimerie Du Stade	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	50	5,60
+CMD-1065-029	02/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Informatique	Souris sans fil	3	17,80
+CMD-1065-029	02/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	5	7,40
+CMD-1065-029	02/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	3,10
+CMD-1065-030	05/10/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Clé USB 64 Go	3	12,40
+CMD-1065-030	05/10/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	5	4,00
+CMD-1065-030	05/10/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	25	7,40
+CMD-1065-030	05/10/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Chemises cartonnées (lot de 50)	10	11,40
+CMD-1065-031	05/10/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	3	146,70
+CMD-1065-031	05/10/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	10	7,40
+CMD-1065-032	07/10/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	10	3,60
+CMD-1065-033	12/10/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	50	2,60
+CMD-1065-034	13/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	5,60
+CMD-1065-034	13/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Classement	Classeur à levier	30	3,60
+CMD-1065-035	16/10/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	30	3,60
+CMD-1065-035	16/10/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	4	37,20
+CMD-1065-036	19/10/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	50	7,40
+CMD-1065-037	19/10/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Souris sans fil	5	17,80
+CMD-1065-038	20/10/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Informatique	Clavier	2	29,90
+CMD-1065-038	20/10/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	10	2,60
+CMD-1065-038	20/10/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	20	6,90
+CMD-1065-039	20/10/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	3	29,90
+CMD-1065-040	21/10/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-1065-040	21/10/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	2	6,90
+CMD-1065-041	23/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,60
+CMD-1065-041	23/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	10	133,90
+CMD-1065-041	23/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	50	5,60
+CMD-1065-042	02/11/2026	Restaurant Le Saint-Do	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	5	5,60
+CMD-1065-042	02/11/2026	Restaurant Le Saint-Do	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	5	6,90
+CMD-1065-042	02/11/2026	Restaurant Le Saint-Do	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Écran 24 pouces	2	133,90
+CMD-1065-043	02/11/2026	Ferreira Rénovation	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	10	12,40
+CMD-1065-044	03/11/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	3,10
+CMD-1065-044	03/11/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	8,90
+CMD-1065-045	06/11/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	5,60
+CMD-1065-045	06/11/2026	Pressing Moderne	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	8,90
+CMD-1065-046	09/11/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	5	3,60
+CMD-1065-047	09/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	146,70
+CMD-1065-047	09/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	5,60
+CMD-1065-047	09/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	7,40
+CMD-1065-048	16/11/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	5	2,60
+CMD-1065-049	20/11/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	5	8,90
+CMD-1065-050	30/11/2026	Garage Diallo Auto	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	20	11,40
+CMD-1065-050	30/11/2026	Garage Diallo Auto	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	5	3,60
+CMD-1065-050	30/11/2026	Garage Diallo Auto	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	5	8,90
+CMD-1065-051	30/11/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	4	37,20
+CMD-1065-051	30/11/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	3	29,90
+CMD-1065-052	07/12/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Mobilier	Caisson à tiroirs	3	126,50
+CMD-1065-052	07/12/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	20	2,60
+CMD-1065-053	07/12/2026	Ferreira Rénovation	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	8,90
+CMD-1065-053	07/12/2026	Ferreira Rénovation	Grand Est	Léa Muller	Mobilier	Lampe de bureau	4	37,20
+CMD-1065-054	10/12/2026	Ferreira Rénovation	Grand Est	Léa Muller	Classement	Classeur à levier	20	3,60
+CMD-1065-054	10/12/2026	Ferreira Rénovation	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	5	6,90
+CMD-1065-055	11/12/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	2	29,90
+CMD-1065-055	11/12/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	8,90
+CMD-1065-055	11/12/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	2	12,40
+CMD-1065-055	11/12/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	6	126,50
+CMD-1065-056	14/12/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Clavier	5	29,90
+CMD-1065-056	14/12/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	5	5,60
+CMD-1065-057	17/12/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	25	7,40
+CMD-1065-057	17/12/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	8,90
+CMD-1065-058	18/12/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-1065-058	18/12/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	6,90

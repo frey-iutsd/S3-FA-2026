@@ -1,0 +1,115 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-5228-001	06/07/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,50
+CMD-5228-002	10/07/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Papeterie	Ramette papier A4	20	6,20
+CMD-5228-002	10/07/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	50	2,50
+CMD-5228-003	14/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Souris sans fil	2	17,90
+CMD-5228-003	14/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	3	144,40
+CMD-5228-003	14/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,70
+CMD-5228-004	17/07/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	10	2,50
+CMD-5228-005	17/07/2026	Auto-École Camara	Hauts-de-France	Karim Diallo	Mobilier	Caisson à tiroirs	3	119,40
+CMD-5228-006	20/07/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	7,70
+CMD-5228-006	20/07/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	1	119,40
+CMD-5228-007	20/07/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	50	2,50
+CMD-5228-008	30/07/2026	Pressing Moderne	Grand Est	Léa Muller	Classement	Boîte d'archives	10	2,80
+CMD-5228-008	30/07/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Ramette papier A4	25	6,20
+CMD-5228-009	04/08/2026	Agence Mercier Immobilier	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	5	11,80
+CMD-5228-010	06/08/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-5228-010	06/08/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Classement	Classeur à levier	10	3,90
+CMD-5228-011	12/08/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	1	12,00
+CMD-5228-011	12/08/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,90
+CMD-5228-011	12/08/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Souris sans fil	3	17,90
+CMD-5228-011	12/08/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	6	138,00
+CMD-5228-012	14/08/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	5	4,00
+CMD-5228-012	14/08/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	10,20
+CMD-5228-013	17/08/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Classement	Classeur à levier	10	3,90
+CMD-5228-014	18/08/2026	Agence Mercier Immobilier	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	10,20
+CMD-5228-014	18/08/2026	Agence Mercier Immobilier	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-5228-015	21/08/2026	Transports Kaya	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	2,80
+CMD-5228-015	21/08/2026	Transports Kaya	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	1	119,40
+CMD-5228-016	24/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	2	4,00
+CMD-5228-016	24/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Clavier	10	26,30
+CMD-5228-016	24/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	10	10,20
+CMD-5228-017	24/08/2026	Agence Mercier Immobilier	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	1	144,40
+CMD-5228-017	24/08/2026	Agence Mercier Immobilier	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	4	138,00
+CMD-5228-018	24/08/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	6,20
+CMD-5228-019	27/08/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	5	4,00
+CMD-5228-019	27/08/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	2	119,40
+CMD-5228-020	31/08/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Mobilier	Caisson à tiroirs	4	119,40
+CMD-5228-020	31/08/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,40
+CMD-5228-020	31/08/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	20	4,00
+CMD-5228-020	31/08/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	50	2,50
+CMD-5228-021	02/09/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	30	11,80
+CMD-5228-022	09/09/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Mobilier	Caisson à tiroirs	4	119,40
+CMD-5228-022	09/09/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	20	6,20
+CMD-5228-023	11/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Classement	Classeur à levier	30	3,90
+CMD-5228-023	11/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	1	34,70
+CMD-5228-024	14/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	12,00
+CMD-5228-024	14/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Informatique	Clavier	2	26,30
+CMD-5228-025	14/09/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	6,20
+CMD-5228-025	14/09/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,40
+CMD-5228-026	15/09/2026	Agence Mercier Immobilier	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	5	6,40
+CMD-5228-026	15/09/2026	Agence Mercier Immobilier	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	2	138,00
+CMD-5228-027	15/09/2026	Auto-École Camara	Hauts-de-France	Karim Diallo	Classement	Chemises cartonnées (lot de 50)	10	11,80
+CMD-5228-028	17/09/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	20	10,20
+CMD-5228-028	17/09/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	2	138,00
+CMD-5228-028	17/09/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Mobilier	Caisson à tiroirs	1	119,40
+CMD-5228-029	21/09/2026	Pressing Moderne	Grand Est	Léa Muller	Classement	Boîte d'archives	5	2,80
+CMD-5228-029	21/09/2026	Pressing Moderne	Grand Est	Léa Muller	Classement	Classeur à levier	20	3,90
+CMD-5228-030	21/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,70
+CMD-5228-031	21/09/2026	Traiteur Saveurs D'asie	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Écran 24 pouces	2	144,40
+CMD-5228-031	21/09/2026	Traiteur Saveurs D'asie	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	20	2,50
+CMD-5228-032	28/09/2026	Agence Mercier Immobilier	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	1	119,40
+CMD-5228-032	28/09/2026	Agence Mercier Immobilier	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	10	7,70
+CMD-5228-033	28/09/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Classement	Boîte d'archives	10	2,80
+CMD-5228-033	28/09/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Papeterie	Ramette papier A4	20	6,20
+CMD-5228-034	30/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	10	11,80
+CMD-5228-035	05/10/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,50
+CMD-5228-035	05/10/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	6,20
+CMD-5228-036	09/10/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	1	119,40
+CMD-5228-036	09/10/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Informatique	Souris sans fil	10	17,90
+CMD-5228-036	09/10/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-5228-037	20/10/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	20	4,00
+CMD-5228-037	20/10/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	5	2,80
+CMD-5228-037	20/10/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	20	7,70
+CMD-5228-038	26/10/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	5	4,00
+CMD-5228-039	02/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	2	144,40
+CMD-5228-039	02/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,00
+CMD-5228-040	03/11/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	10	6,20
+CMD-5228-040	03/11/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	2	10,20
+CMD-5228-041	09/11/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Informatique	Clavier	3	26,30
+CMD-5228-041	09/11/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	6,20
+CMD-5228-042	09/11/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Informatique	Clavier	3	26,30
+CMD-5228-042	09/11/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,20
+CMD-5228-043	09/11/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	1	34,70
+CMD-5228-043	09/11/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Mobilier	Caisson à tiroirs	2	119,40
+CMD-5228-044	10/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Informatique	Souris sans fil	3	17,90
+CMD-5228-044	10/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,90
+CMD-5228-044	10/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Informatique	Clavier	5	26,30
+CMD-5228-045	10/11/2026	Auto-École Camara	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	5	6,40
+CMD-5228-045	10/11/2026	Auto-École Camara	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	20	3,90
+CMD-5228-045	10/11/2026	Auto-École Camara	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-5228-046	12/11/2026	Traiteur Saveurs D'asie	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Chemises cartonnées (lot de 50)	20	11,80
+CMD-5228-047	16/11/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	10	6,20
+CMD-5228-047	16/11/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	3	144,40
+CMD-5228-047	16/11/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	10	7,70
+CMD-5228-048	16/11/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,40
+CMD-5228-048	16/11/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	12,00
+CMD-5228-048	16/11/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	4	34,70
+CMD-5228-049	18/11/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	1	144,40
+CMD-5228-049	18/11/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	2,80
+CMD-5228-050	27/11/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	2	6,40
+CMD-5228-051	30/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	6,20
+CMD-5228-051	30/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-5228-051	30/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	1	34,70
+CMD-5228-052	02/12/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	25	7,70
+CMD-5228-053	09/12/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,00
+CMD-5228-053	09/12/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	25	7,70
+CMD-5228-054	09/12/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	5	4,00
+CMD-5228-055	14/12/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	5	4,00
+CMD-5228-055	14/12/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	20	10,20
+CMD-5228-055	14/12/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	25	7,70
+CMD-5228-056	14/12/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	10	7,70
+CMD-5228-056	14/12/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Classement	Boîte d'archives	10	2,80
+CMD-5228-057	15/12/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	5	11,80
+CMD-5228-057	15/12/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Informatique	Écran 24 pouces	2	144,40
+CMD-5228-058	18/12/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	1	119,40

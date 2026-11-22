@@ -1,0 +1,110 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-1260-001	06/07/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,30
+CMD-1260-002	07/07/2026	Coiffure L'instant	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	4	118,80
+CMD-1260-003	07/07/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	5	7,30
+CMD-1260-004	08/07/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-1260-004	08/07/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	5	7,30
+CMD-1260-005	09/07/2026	Coiffure L'instant	Grand Est	Léa Muller	Classement	Boîte d'archives	30	3,10
+CMD-1260-005	09/07/2026	Coiffure L'instant	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	1	12,30
+CMD-1260-006	13/07/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Informatique	Écran 24 pouces	2	145,10
+CMD-1260-006	13/07/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	20	10,00
+CMD-1260-006	13/07/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	50	2,60
+CMD-1260-007	14/07/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,40
+CMD-1260-008	14/07/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Classement	Chemises cartonnées (lot de 50)	5	11,50
+CMD-1260-008	14/07/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Informatique	Souris sans fil	2	18,60
+CMD-1260-009	28/07/2026	Restaurant Le Saint-Do	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	5	7,30
+CMD-1260-009	28/07/2026	Restaurant Le Saint-Do	Occitanie	Hugo Ferreira	Classement	Boîte d'archives	20	3,10
+CMD-1260-010	03/08/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	2	6,40
+CMD-1260-011	10/08/2026	Coiffure L'instant	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,60
+CMD-1260-012	10/08/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,40
+CMD-1260-012	10/08/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Classement	Boîte d'archives	30	3,10
+CMD-1260-012	10/08/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	30	3,60
+CMD-1260-013	10/08/2026	Coiffure L'instant	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	30	11,50
+CMD-1260-013	10/08/2026	Coiffure L'instant	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	10,00
+CMD-1260-014	12/08/2026	Optique Rousseau	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	1	118,80
+CMD-1260-015	13/08/2026	Clinique Vétérinaire Du Canal	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Classeur à levier	5	3,60
+CMD-1260-015	13/08/2026	Clinique Vétérinaire Du Canal	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Caisson à tiroirs	1	118,80
+CMD-1260-015	13/08/2026	Clinique Vétérinaire Du Canal	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	3	138,90
+CMD-1260-016	14/08/2026	Optique Rousseau	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	6,30
+CMD-1260-017	17/08/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	20	2,60
+CMD-1260-018	17/08/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	25	7,30
+CMD-1260-019	24/08/2026	Restaurant Le Saint-Do	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	20	7,30
+CMD-1260-019	24/08/2026	Restaurant Le Saint-Do	Occitanie	Hugo Ferreira	Informatique	Souris sans fil	2	18,60
+CMD-1260-019	24/08/2026	Restaurant Le Saint-Do	Occitanie	Hugo Ferreira	Classement	Chemises cartonnées (lot de 50)	10	11,50
+CMD-1260-020	25/08/2026	Optique Rousseau	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	2	6,40
+CMD-1260-021	25/08/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	4	33,30
+CMD-1260-021	25/08/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Informatique	Clavier	2	28,90
+CMD-1260-022	27/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	138,90
+CMD-1260-023	28/08/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Mobilier	Lampe de bureau	6	33,30
+CMD-1260-023	28/08/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Informatique	Écran 24 pouces	10	145,10
+CMD-1260-023	28/08/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	25	7,30
+CMD-1260-024	07/09/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Classement	Chemises cartonnées (lot de 50)	30	11,50
+CMD-1260-024	07/09/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Informatique	Clavier	1	28,90
+CMD-1260-024	07/09/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	1	33,30
+CMD-1260-025	07/09/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,40
+CMD-1260-026	07/09/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Ramette papier A4	25	6,30
+CMD-1260-026	07/09/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Classement	Boîte d'archives	30	3,10
+CMD-1260-027	14/09/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	25	6,30
+CMD-1260-027	14/09/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	5	2,60
+CMD-1260-028	15/09/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	6	118,80
+CMD-1260-028	15/09/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,60
+CMD-1260-029	16/09/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Informatique	Souris sans fil	10	18,60
+CMD-1260-029	16/09/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	11,50
+CMD-1260-029	16/09/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,60
+CMD-1260-030	24/09/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	2	10,00
+CMD-1260-031	28/09/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Informatique	Clavier	10	28,90
+CMD-1260-031	28/09/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Écriture	Surligneurs (lot de 4)	10	4,60
+CMD-1260-032	29/09/2026	Coiffure L'instant	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,40
+CMD-1260-033	30/09/2026	Transports Kaya	Grand Est	Léa Muller	Papeterie	Ramette papier A4	25	6,30
+CMD-1260-033	30/09/2026	Transports Kaya	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	10,00
+CMD-1260-033	30/09/2026	Transports Kaya	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	20	2,60
+CMD-1260-034	02/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	3	145,10
+CMD-1260-034	02/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,60
+CMD-1260-035	05/10/2026	Coiffure L'instant	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	5	4,60
+CMD-1260-035	05/10/2026	Coiffure L'instant	Grand Est	Léa Muller	Mobilier	Chaise de bureau	3	138,90
+CMD-1260-035	05/10/2026	Coiffure L'instant	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	30	11,50
+CMD-1260-036	06/10/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	10	6,40
+CMD-1260-037	07/10/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	2	138,90
+CMD-1260-037	07/10/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	3	12,30
+CMD-1260-037	07/10/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	3,10
+CMD-1260-038	09/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,60
+CMD-1260-038	09/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	4	138,90
+CMD-1260-039	12/10/2026	Clinique Vétérinaire Du Canal	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	50	6,30
+CMD-1260-039	12/10/2026	Clinique Vétérinaire Du Canal	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	20	6,40
+CMD-1260-040	14/10/2026	Restaurant Le Saint-Do	Occitanie	Hugo Ferreira	Classement	Classeur à levier	20	3,60
+CMD-1260-040	14/10/2026	Restaurant Le Saint-Do	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-1260-041	14/10/2026	Optique Rousseau	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	30	11,50
+CMD-1260-041	14/10/2026	Optique Rousseau	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,30
+CMD-1260-042	22/10/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,30
+CMD-1260-043	26/10/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	7,30
+CMD-1260-043	26/10/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Classement	Boîte d'archives	5	3,10
+CMD-1260-044	26/10/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Informatique	Clé USB 64 Go	1	12,30
+CMD-1260-044	26/10/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Informatique	Clavier	10	28,90
+CMD-1260-044	26/10/2026	Garage Diallo Auto	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	20	4,60
+CMD-1260-045	02/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	20	10,00
+CMD-1260-045	02/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	5	2,60
+CMD-1260-046	05/11/2026	Transports Kaya	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	5	11,50
+CMD-1260-047	09/11/2026	Transports Kaya	Grand Est	Léa Muller	Informatique	Clavier	10	28,90
+CMD-1260-047	09/11/2026	Transports Kaya	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	2	10,00
+CMD-1260-048	11/11/2026	Clinique Vétérinaire Du Canal	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	5	6,30
+CMD-1260-049	16/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Classement	Boîte d'archives	20	3,10
+CMD-1260-049	16/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	20	4,60
+CMD-1260-050	18/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,60
+CMD-1260-050	18/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,40
+CMD-1260-051	20/11/2026	Restaurant Le Saint-Do	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	20	6,30
+CMD-1260-052	23/11/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Classement	Boîte d'archives	20	3,10
+CMD-1260-052	23/11/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	5	6,40
+CMD-1260-052	23/11/2026	Ferreira Rénovation	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	5	6,30
+CMD-1260-053	24/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,60
+CMD-1260-053	24/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	5	7,30
+CMD-1260-053	24/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Classement	Boîte d'archives	10	3,10
+CMD-1260-054	30/11/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	5	4,60
+CMD-1260-055	07/12/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	20	7,30
+CMD-1260-055	07/12/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,60
+CMD-1260-056	08/12/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	50	2,60
+CMD-1260-056	08/12/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	6	138,90
+CMD-1260-057	11/12/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Classement	Boîte d'archives	20	3,10
+CMD-1260-057	11/12/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-1260-058	14/12/2026	Coiffure L'instant	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	7,30
+CMD-1260-058	14/12/2026	Coiffure L'instant	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,60
+CMD-1260-059	15/12/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	7,30

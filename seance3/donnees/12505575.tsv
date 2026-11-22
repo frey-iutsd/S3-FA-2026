@@ -1,0 +1,130 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-3491-001	03/07/2026	Pharmacie De La Basilique	Grand Est	Léa Muller	Informatique	Souris sans fil	3	19,90
+CMD-3491-002	03/07/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Papeterie	Ramette papier A4	5	5,90
+CMD-3491-002	03/07/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Informatique	Souris sans fil	2	19,90
+CMD-3491-002	03/07/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,60
+CMD-3491-003	06/07/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	20	5,90
+CMD-3491-003	06/07/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	10	2,60
+CMD-3491-004	08/07/2026	Menuiserie Bouzid	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	9,60
+CMD-3491-005	10/07/2026	Fleurs Et Compagnie	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	2,80
+CMD-3491-006	10/07/2026	Imprimerie Du Stade	Occitanie	Hugo Ferreira	Écriture	Stylos bille (boîte de 20)	2	7,30
+CMD-3491-006	10/07/2026	Imprimerie Du Stade	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	50	5,90
+CMD-3491-006	10/07/2026	Imprimerie Du Stade	Occitanie	Hugo Ferreira	Papeterie	Bloc-notes A5	25	2,60
+CMD-3491-007	10/07/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	3	110,90
+CMD-3491-008	13/07/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Classement	Boîte d'archives	20	2,80
+CMD-3491-008	13/07/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	2	7,30
+CMD-3491-009	13/07/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	1	152,70
+CMD-3491-010	14/07/2026	Fleurs Et Compagnie	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	7,30
+CMD-3491-010	14/07/2026	Fleurs Et Compagnie	Île-de-France	Sarah Benali	Informatique	Souris sans fil	10	19,90
+CMD-3491-010	14/07/2026	Fleurs Et Compagnie	Île-de-France	Sarah Benali	Informatique	Clavier	2	28,30
+CMD-3491-010	14/07/2026	Fleurs Et Compagnie	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,60
+CMD-3491-011	15/07/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	6,80
+CMD-3491-011	15/07/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	10	147,00
+CMD-3491-012	24/07/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	9,60
+CMD-3491-013	28/07/2026	Ferreira Rénovation	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	20	2,60
+CMD-3491-013	28/07/2026	Ferreira Rénovation	Grand Est	Léa Muller	Informatique	Écran 24 pouces	5	147,00
+CMD-3491-013	28/07/2026	Ferreira Rénovation	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	10	12,30
+CMD-3491-014	17/08/2026	Ferreira Rénovation	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-3491-014	17/08/2026	Ferreira Rénovation	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	20	2,60
+CMD-3491-014	17/08/2026	Ferreira Rénovation	Grand Est	Léa Muller	Classement	Classeur à levier	20	3,40
+CMD-3491-015	17/08/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	9,60
+CMD-3491-015	17/08/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,20
+CMD-3491-016	17/08/2026	Optique Rousseau	Île-de-France	Sarah Benali	Informatique	Clavier	2	28,30
+CMD-3491-016	17/08/2026	Optique Rousseau	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	12,30
+CMD-3491-017	20/08/2026	Optique Rousseau	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,20
+CMD-3491-018	24/08/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	5	9,60
+CMD-3491-019	24/08/2026	Menuiserie Bouzid	Grand Est	Léa Muller	Informatique	Clavier	1	28,30
+CMD-3491-020	24/08/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	2	9,60
+CMD-3491-021	31/08/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	5,90
+CMD-3491-021	31/08/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	5	9,60
+CMD-3491-021	31/08/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	2,80
+CMD-3491-022	01/09/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	7,30
+CMD-3491-022	01/09/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	2	110,90
+CMD-3491-023	02/09/2026	Menuiserie Bouzid	Grand Est	Léa Muller	Classement	Classeur à levier	5	3,40
+CMD-3491-023	02/09/2026	Menuiserie Bouzid	Grand Est	Léa Muller	Mobilier	Lampe de bureau	2	31,60
+CMD-3491-024	03/09/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Informatique	Écran 24 pouces	1	147,00
+CMD-3491-024	03/09/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	20	4,20
+CMD-3491-024	03/09/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	4	110,90
+CMD-3491-024	03/09/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	20	9,60
+CMD-3491-025	04/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	1	147,00
+CMD-3491-025	04/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	152,70
+CMD-3491-025	04/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	5,90
+CMD-3491-026	07/09/2026	Optique Rousseau	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	30	12,30
+CMD-3491-027	08/09/2026	Menuiserie Bouzid	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	2	9,60
+CMD-3491-028	11/09/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	5	4,20
+CMD-3491-028	11/09/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	50	6,80
+CMD-3491-029	14/09/2026	Pressing Moderne	Île-de-France	Sarah Benali	Informatique	Souris sans fil	5	19,90
+CMD-3491-030	14/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Clavier	3	28,30
+CMD-3491-030	14/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,60
+CMD-3491-030	14/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	5	4,20
+CMD-3491-031	14/09/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,60
+CMD-3491-031	14/09/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	12,30
+CMD-3491-032	15/09/2026	Ferreira Rénovation	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	20	2,60
+CMD-3491-033	15/09/2026	Pharmacie De La Basilique	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	2	4,20
+CMD-3491-033	15/09/2026	Pharmacie De La Basilique	Grand Est	Léa Muller	Classement	Classeur à levier	5	3,40
+CMD-3491-033	15/09/2026	Pharmacie De La Basilique	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	1	12,40
+CMD-3491-033	15/09/2026	Pharmacie De La Basilique	Grand Est	Léa Muller	Mobilier	Lampe de bureau	1	31,60
+CMD-3491-034	15/09/2026	Pressing Moderne	Île-de-France	Sarah Benali	Informatique	Souris sans fil	10	19,90
+CMD-3491-034	15/09/2026	Pressing Moderne	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	5,90
+CMD-3491-035	17/09/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Informatique	Clavier	10	28,30
+CMD-3491-036	21/09/2026	Fleurs Et Compagnie	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,60
+CMD-3491-037	21/09/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Classement	Classeur à levier	10	3,40
+CMD-3491-038	21/09/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Informatique	Clavier	3	28,30
+CMD-3491-038	21/09/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	7,30
+CMD-3491-039	25/09/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,20
+CMD-3491-039	25/09/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	1	147,00
+CMD-3491-040	29/09/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	1	31,60
+CMD-3491-040	29/09/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	1	110,90
+CMD-3491-040	29/09/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	5	3,40
+CMD-3491-041	05/10/2026	Menuiserie Bouzid	Grand Est	Léa Muller	Informatique	Écran 24 pouces	5	147,00
+CMD-3491-041	05/10/2026	Menuiserie Bouzid	Grand Est	Léa Muller	Informatique	Clavier	3	28,30
+CMD-3491-042	06/10/2026	Optique Rousseau	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,60
+CMD-3491-043	07/10/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	10	12,30
+CMD-3491-044	07/10/2026	Optique Rousseau	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	152,70
+CMD-3491-044	07/10/2026	Optique Rousseau	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	5,90
+CMD-3491-045	08/10/2026	Pharmacie De La Basilique	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	7,30
+CMD-3491-045	08/10/2026	Pharmacie De La Basilique	Grand Est	Léa Muller	Classement	Boîte d'archives	30	2,80
+CMD-3491-046	09/10/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	5	7,30
+CMD-3491-047	12/10/2026	Pressing Moderne	Île-de-France	Sarah Benali	Informatique	Souris sans fil	2	19,90
+CMD-3491-047	12/10/2026	Pressing Moderne	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	3	147,00
+CMD-3491-048	12/10/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	5	6,80
+CMD-3491-048	12/10/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	2	147,00
+CMD-3491-048	12/10/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	50	5,90
+CMD-3491-049	21/10/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	2	4,20
+CMD-3491-050	28/10/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,60
+CMD-3491-050	28/10/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Informatique	Clavier	2	28,30
+CMD-3491-050	28/10/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	2,80
+CMD-3491-050	28/10/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	5,90
+CMD-3491-051	02/11/2026	Imprimerie Du Stade	Occitanie	Hugo Ferreira	Écriture	Stylos bille (boîte de 20)	5	7,30
+CMD-3491-052	02/11/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-3491-052	02/11/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	4	31,60
+CMD-3491-053	04/11/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	152,70
+CMD-3491-053	04/11/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	6	110,90
+CMD-3491-054	06/11/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-3491-055	09/11/2026	Pharmacie De La Basilique	Grand Est	Léa Muller	Informatique	Souris sans fil	10	19,90
+CMD-3491-055	09/11/2026	Pharmacie De La Basilique	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	2	12,40
+CMD-3491-056	10/11/2026	Pressing Moderne	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	30	12,30
+CMD-3491-056	10/11/2026	Pressing Moderne	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	3	110,90
+CMD-3491-057	11/11/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	5	12,30
+CMD-3491-058	30/11/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,60
+CMD-3491-058	30/11/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	2	12,40
+CMD-3491-059	01/12/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	7,30
+CMD-3491-059	01/12/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,60
+CMD-3491-059	01/12/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Classement	Classeur à levier	30	3,40
+CMD-3491-060	01/12/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,20
+CMD-3491-061	07/12/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	20	4,20
+CMD-3491-061	07/12/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	10	12,30
+CMD-3491-061	07/12/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	9,60
+CMD-3491-062	09/12/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	1	19,90
+CMD-3491-062	09/12/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	30	2,80
+CMD-3491-063	11/12/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Classement	Classeur à levier	30	3,40
+CMD-3491-064	14/12/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	3	152,70
+CMD-3491-064	14/12/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	10	5,90
+CMD-3491-065	14/12/2026	Optique Rousseau	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	1	31,60
+CMD-3491-065	14/12/2026	Optique Rousseau	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	7,30
+CMD-3491-065	14/12/2026	Optique Rousseau	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	5	12,30
+CMD-3491-066	18/12/2026	Fleurs Et Compagnie	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	12,30
+CMD-3491-066	18/12/2026	Fleurs Et Compagnie	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	1	12,40
+CMD-3491-067	18/12/2026	Librairie Folies D'encre	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	5	4,20
+CMD-3491-068	18/12/2026	Menuiserie Bouzid	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	2	9,60
+CMD-3491-068	18/12/2026	Menuiserie Bouzid	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	1	110,90

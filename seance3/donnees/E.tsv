@@ -1,0 +1,130 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-1804-001	01/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	10	5,30
+CMD-1804-001	01/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	30	13,50
+CMD-1804-002	02/07/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	2	143,70
+CMD-1804-002	02/07/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	20	6,50
+CMD-1804-003	06/07/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,50
+CMD-1804-003	06/07/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	6,80
+CMD-1804-004	09/07/2026	Transports Kaya	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	13,50
+CMD-1804-004	09/07/2026	Transports Kaya	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	5	2,40
+CMD-1804-005	13/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-1804-005	13/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	5	143,70
+CMD-1804-006	13/07/2026	Menuiserie Bouzid	Occitanie	Hugo Ferreira	Classement	Chemises cartonnées (lot de 50)	30	13,50
+CMD-1804-007	13/07/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	5	3,30
+CMD-1804-007	13/07/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	5	13,50
+CMD-1804-008	20/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,40
+CMD-1804-008	20/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,50
+CMD-1804-009	20/07/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	5	2,40
+CMD-1804-010	20/07/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	6,80
+CMD-1804-011	21/07/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	6	152,50
+CMD-1804-011	21/07/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	13,50
+CMD-1804-012	29/07/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	3,10
+CMD-1804-012	29/07/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-1804-013	29/07/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	10	5,30
+CMD-1804-014	03/08/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Informatique	Souris sans fil	10	20,70
+CMD-1804-014	03/08/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Informatique	Écran 24 pouces	10	143,70
+CMD-1804-014	03/08/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Écriture	Surligneurs (lot de 4)	5	4,50
+CMD-1804-015	03/08/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	25	6,80
+CMD-1804-015	03/08/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	1	152,50
+CMD-1804-016	03/08/2026	Hôtel Les Tilleuls	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	152,50
+CMD-1804-016	03/08/2026	Hôtel Les Tilleuls	Île-de-France	Sarah Benali	Classement	Classeur à levier	30	3,30
+CMD-1804-017	10/08/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Classement	Classeur à levier	10	3,30
+CMD-1804-017	10/08/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	9,60
+CMD-1804-018	17/08/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	2	4,50
+CMD-1804-018	17/08/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Clavier	10	31,10
+CMD-1804-019	17/08/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Informatique	Clavier	2	31,10
+CMD-1804-019	17/08/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	5	6,80
+CMD-1804-019	17/08/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-1804-019	17/08/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	2	143,70
+CMD-1804-020	17/08/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	25	6,80
+CMD-1804-020	17/08/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	9,60
+CMD-1804-020	17/08/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,50
+CMD-1804-020	17/08/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	5,30
+CMD-1804-021	19/08/2026	Hôtel Les Tilleuls	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	5	13,50
+CMD-1804-021	19/08/2026	Hôtel Les Tilleuls	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	25	6,80
+CMD-1804-022	25/08/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	25	6,80
+CMD-1804-022	25/08/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Classeur à levier	10	3,30
+CMD-1804-022	25/08/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	10	3,10
+CMD-1804-023	26/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	5,30
+CMD-1804-023	26/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	9,60
+CMD-1804-023	26/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Souris sans fil	3	20,70
+CMD-1804-024	31/08/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	50	6,80
+CMD-1804-025	31/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,50
+CMD-1804-026	31/08/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	3	35,70
+CMD-1804-026	31/08/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Classeur à levier	30	3,30
+CMD-1804-026	31/08/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	25	5,30
+CMD-1804-026	31/08/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Chemises cartonnées (lot de 50)	30	13,50
+CMD-1804-027	02/09/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,40
+CMD-1804-027	02/09/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	5,30
+CMD-1804-027	02/09/2026	Taxi Plaine Express	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	4	35,70
+CMD-1804-028	07/09/2026	Crèche Les Petits Pas	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	3	143,70
+CMD-1804-029	07/09/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	1	12,10
+CMD-1804-029	07/09/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	9,60
+CMD-1804-029	07/09/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	20	4,50
+CMD-1804-029	07/09/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	1	143,70
+CMD-1804-030	08/09/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	20	3,10
+CMD-1804-030	08/09/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	6	35,70
+CMD-1804-031	18/09/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	20	4,50
+CMD-1804-031	18/09/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	2	6,50
+CMD-1804-032	24/09/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-1804-032	24/09/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,50
+CMD-1804-033	28/09/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	6	152,50
+CMD-1804-033	28/09/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	20	6,50
+CMD-1804-033	28/09/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	5	2,40
+CMD-1804-034	28/09/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	5	3,10
+CMD-1804-034	28/09/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	20	6,50
+CMD-1804-035	29/09/2026	Crèche Les Petits Pas	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	3	35,70
+CMD-1804-035	29/09/2026	Crèche Les Petits Pas	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-1804-035	29/09/2026	Crèche Les Petits Pas	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	10	2,40
+CMD-1804-035	29/09/2026	Crèche Les Petits Pas	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	1	143,70
+CMD-1804-036	01/10/2026	Transports Kaya	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	6	35,70
+CMD-1804-037	02/10/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	9,60
+CMD-1804-037	02/10/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	3,10
+CMD-1804-037	02/10/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	5	12,10
+CMD-1804-038	05/10/2026	Transports Kaya	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	3	109,10
+CMD-1804-039	06/10/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	20	6,80
+CMD-1804-039	06/10/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Mobilier	Caisson à tiroirs	4	109,10
+CMD-1804-040	12/10/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Informatique	Souris sans fil	10	20,70
+CMD-1804-040	12/10/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-1804-040	12/10/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	10	9,60
+CMD-1804-041	15/10/2026	Menuiserie Bouzid	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	20	6,80
+CMD-1804-041	15/10/2026	Menuiserie Bouzid	Occitanie	Hugo Ferreira	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-1804-042	20/10/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	2	4,50
+CMD-1804-042	20/10/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	2	9,60
+CMD-1804-042	20/10/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	10	5,30
+CMD-1804-043	21/10/2026	Auto-École Camara	Grand Est	Léa Muller	Informatique	Écran 24 pouces	2	143,70
+CMD-1804-043	21/10/2026	Auto-École Camara	Grand Est	Léa Muller	Classement	Classeur à levier	20	3,30
+CMD-1804-043	21/10/2026	Auto-École Camara	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	10	13,50
+CMD-1804-044	22/10/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	5	143,70
+CMD-1804-045	22/10/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	4	35,70
+CMD-1804-045	22/10/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-1804-046	26/10/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	3	152,50
+CMD-1804-046	26/10/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	20	4,50
+CMD-1804-046	26/10/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	30	3,10
+CMD-1804-046	26/10/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	25	2,40
+CMD-1804-047	27/10/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	25	5,30
+CMD-1804-047	27/10/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-1804-048	27/10/2026	Auto-École Camara	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,50
+CMD-1804-048	27/10/2026	Auto-École Camara	Grand Est	Léa Muller	Mobilier	Chaise de bureau	6	152,50
+CMD-1804-049	29/10/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Mobilier	Caisson à tiroirs	3	109,10
+CMD-1804-049	29/10/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	1	143,70
+CMD-1804-049	29/10/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	50	2,40
+CMD-1804-049	29/10/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-1804-050	30/10/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Informatique	Souris sans fil	2	20,70
+CMD-1804-050	30/10/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	50	2,40
+CMD-1804-051	02/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	5	2,40
+CMD-1804-051	02/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,50
+CMD-1804-052	23/11/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-1804-052	23/11/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	2	9,60
+CMD-1804-053	30/11/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	12,10
+CMD-1804-054	30/11/2026	Fleurs Et Compagnie	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	20	4,50
+CMD-1804-055	01/12/2026	Transports Kaya	Île-de-France	Sarah Benali	Informatique	Clavier	2	31,10
+CMD-1804-056	04/12/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	50	6,80
+CMD-1804-056	04/12/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	20	9,60
+CMD-1804-057	11/12/2026	Auto-École Camara	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,40
+CMD-1804-057	11/12/2026	Auto-École Camara	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	10	12,10
+CMD-1804-058	14/12/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	30	13,50
+CMD-1804-058	14/12/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Souris sans fil	3	20,70
+CMD-1804-059	14/12/2026	Pressing Moderne	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	50	6,80
+CMD-1804-060	14/12/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	2	152,50
+CMD-1804-061	17/12/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	50	2,40

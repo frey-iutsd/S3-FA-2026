@@ -1,0 +1,116 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-1065-001	06/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	25	7,60
+CMD-1065-001	06/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,50
+CMD-1065-002	06/07/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	5	7,60
+CMD-1065-002	06/07/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	2	4,20
+CMD-1065-003	08/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,50
+CMD-1065-003	08/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	3	11,80
+CMD-1065-004	13/07/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	3	143,80
+CMD-1065-005	14/07/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,50
+CMD-1065-005	14/07/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Mobilier	Chaise de bureau	6	143,80
+CMD-1065-005	14/07/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Informatique	Souris sans fil	1	18,90
+CMD-1065-006	15/07/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	5	6,20
+CMD-1065-006	15/07/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Classement	Boîte d'archives	5	2,90
+CMD-1065-007	16/07/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	2	37,30
+CMD-1065-007	16/07/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	5	4,20
+CMD-1065-008	20/07/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Classement	Classeur à levier	30	3,50
+CMD-1065-008	20/07/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	9,40
+CMD-1065-008	20/07/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	2	7,40
+CMD-1065-008	20/07/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	2	107,20
+CMD-1065-009	20/07/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	5	13,00
+CMD-1065-009	20/07/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	2	4,20
+CMD-1065-009	20/07/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Ramette papier A4	5	6,20
+CMD-1065-010	24/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Classement	Chemises cartonnées (lot de 50)	5	13,00
+CMD-1065-010	24/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	7,40
+CMD-1065-011	27/07/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	5	2,50
+CMD-1065-011	27/07/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,20
+CMD-1065-012	03/08/2026	Transports Kaya	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	10	13,00
+CMD-1065-012	03/08/2026	Transports Kaya	Île-de-France	Sarah Benali	Classement	Classeur à levier	5	3,50
+CMD-1065-012	03/08/2026	Transports Kaya	Île-de-France	Sarah Benali	Informatique	Clavier	1	27,20
+CMD-1065-013	03/08/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	5	7,60
+CMD-1065-014	04/08/2026	Cabinet Haddad Conseil	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,20
+CMD-1065-014	04/08/2026	Cabinet Haddad Conseil	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	6,20
+CMD-1065-014	04/08/2026	Cabinet Haddad Conseil	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	3	143,80
+CMD-1065-015	10/08/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Papeterie	Bloc-notes A5	20	2,50
+CMD-1065-015	10/08/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Classement	Boîte d'archives	10	2,90
+CMD-1065-015	10/08/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	20	7,60
+CMD-1065-015	10/08/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Classement	Classeur à levier	20	3,50
+CMD-1065-016	10/08/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	4	107,20
+CMD-1065-016	10/08/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Informatique	Clavier	2	27,20
+CMD-1065-016	10/08/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Informatique	Souris sans fil	5	18,90
+CMD-1065-017	12/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	10	13,00
+CMD-1065-017	12/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,60
+CMD-1065-017	12/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	6,20
+CMD-1065-018	17/08/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	10	6,20
+CMD-1065-018	17/08/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	10	138,90
+CMD-1065-019	17/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	7,60
+CMD-1065-019	17/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Classement	Classeur à levier	10	3,50
+CMD-1065-020	17/08/2026	Cabinet Haddad Conseil	Île-de-France	Sarah Benali	Informatique	Clavier	5	27,20
+CMD-1065-021	21/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,20
+CMD-1065-021	21/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	5	13,00
+CMD-1065-021	21/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	20	9,40
+CMD-1065-022	31/08/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Mobilier	Caisson à tiroirs	6	107,20
+CMD-1065-023	31/08/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Mobilier	Caisson à tiroirs	2	107,20
+CMD-1065-023	31/08/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	10	6,20
+CMD-1065-024	31/08/2026	Cabinet Haddad Conseil	Île-de-France	Sarah Benali	Classement	Classeur à levier	30	3,50
+CMD-1065-025	01/09/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	10	7,60
+CMD-1065-025	01/09/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	10	27,20
+CMD-1065-026	07/09/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	2	4,20
+CMD-1065-027	07/09/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Informatique	Clé USB 64 Go	2	11,80
+CMD-1065-028	10/09/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Classement	Chemises cartonnées (lot de 50)	10	13,00
+CMD-1065-029	11/09/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	9,40
+CMD-1065-029	11/09/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	10	13,00
+CMD-1065-030	21/09/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,20
+CMD-1065-031	28/09/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	3	37,30
+CMD-1065-031	28/09/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	2,90
+CMD-1065-032	30/09/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	6,20
+CMD-1065-033	05/10/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	5	4,20
+CMD-1065-034	05/10/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	50	7,60
+CMD-1065-035	09/10/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Mobilier	Caisson à tiroirs	4	107,20
+CMD-1065-035	09/10/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	20	6,20
+CMD-1065-035	09/10/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Mobilier	Chaise de bureau	2	143,80
+CMD-1065-036	19/10/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Classement	Boîte d'archives	10	2,90
+CMD-1065-036	19/10/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,20
+CMD-1065-037	19/10/2026	Transports Kaya	Île-de-France	Sarah Benali	Informatique	Clavier	1	27,20
+CMD-1065-037	19/10/2026	Transports Kaya	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	13,00
+CMD-1065-037	19/10/2026	Transports Kaya	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	1	37,30
+CMD-1065-038	19/10/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Informatique	Clavier	2	27,20
+CMD-1065-038	19/10/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	20	7,40
+CMD-1065-038	19/10/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	10	11,80
+CMD-1065-039	02/11/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	5	18,90
+CMD-1065-040	05/11/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	10	11,80
+CMD-1065-040	05/11/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	1	27,20
+CMD-1065-041	09/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	10	9,40
+CMD-1065-041	09/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	50	7,60
+CMD-1065-041	09/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Classement	Classeur à levier	5	3,50
+CMD-1065-042	11/11/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,20
+CMD-1065-043	16/11/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	20	7,40
+CMD-1065-044	17/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,20
+CMD-1065-044	17/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	7,40
+CMD-1065-045	18/11/2026	Cabinet Haddad Conseil	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	5	4,20
+CMD-1065-045	18/11/2026	Cabinet Haddad Conseil	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,20
+CMD-1065-046	18/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	2	37,30
+CMD-1065-046	18/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	2,90
+CMD-1065-047	19/11/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	2	7,40
+CMD-1065-047	19/11/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	5	2,50
+CMD-1065-047	19/11/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	5	27,20
+CMD-1065-048	20/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	5	7,40
+CMD-1065-048	20/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Classement	Classeur à levier	20	3,50
+CMD-1065-049	25/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	20	9,40
+CMD-1065-049	25/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	7,60
+CMD-1065-050	26/11/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,20
+CMD-1065-050	26/11/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	50	2,50
+CMD-1065-051	30/11/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	6	143,80
+CMD-1065-052	30/11/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Informatique	Clavier	1	27,20
+CMD-1065-053	30/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Surligneurs (lot de 4)	5	4,20
+CMD-1065-053	30/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	10	9,40
+CMD-1065-054	07/12/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	7,60
+CMD-1065-054	07/12/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,20
+CMD-1065-055	08/12/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Écriture	Surligneurs (lot de 4)	10	4,20
+CMD-1065-055	08/12/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	5	7,60
+CMD-1065-055	08/12/2026	Traiteur Saveurs D'asie	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	20	9,40
+CMD-1065-056	08/12/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	20	13,00
+CMD-1065-056	08/12/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Classement	Classeur à levier	30	3,50
+CMD-1065-056	08/12/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Papeterie	Ramette papier A4	25	6,20
+CMD-1065-057	15/12/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Classement	Boîte d'archives	10	2,90
+CMD-1065-057	15/12/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Informatique	Clavier	5	27,20

@@ -1,0 +1,122 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-5408-001	07/07/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	1	147,10
+CMD-5408-002	08/07/2026	Optique Rousseau	Grand Est	Léa Muller	Informatique	Souris sans fil	5	17,70
+CMD-5408-002	08/07/2026	Optique Rousseau	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	9,80
+CMD-5408-003	15/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Souris sans fil	2	17,70
+CMD-5408-003	15/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	10	10,90
+CMD-5408-003	15/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	5	9,80
+CMD-5408-004	16/07/2026	Optique Rousseau	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	20	4,40
+CMD-5408-005	20/07/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Chemises cartonnées (lot de 50)	5	11,90
+CMD-5408-005	20/07/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	20	6,10
+CMD-5408-006	21/07/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Souris sans fil	1	17,70
+CMD-5408-006	21/07/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Ramette papier A4	5	6,10
+CMD-5408-006	21/07/2026	Pressing Moderne	Grand Est	Léa Muller	Classement	Boîte d'archives	30	3,20
+CMD-5408-007	22/07/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Informatique	Écran 24 pouces	3	147,90
+CMD-5408-007	22/07/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,50
+CMD-5408-007	22/07/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	20	8,20
+CMD-5408-008	24/07/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Papeterie	Ramette papier A4	5	6,10
+CMD-5408-008	24/07/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,50
+CMD-5408-009	27/07/2026	Librairie Folies D'encre	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	10	8,20
+CMD-5408-009	27/07/2026	Librairie Folies D'encre	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	30	3,20
+CMD-5408-009	27/07/2026	Librairie Folies D'encre	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	4	37,40
+CMD-5408-010	27/07/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	6,10
+CMD-5408-010	27/07/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	8,20
+CMD-5408-011	27/07/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	8,20
+CMD-5408-011	27/07/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Informatique	Souris sans fil	10	17,70
+CMD-5408-012	27/07/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	20	2,50
+CMD-5408-013	31/07/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	8,20
+CMD-5408-013	31/07/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Informatique	Clavier	3	27,80
+CMD-5408-013	31/07/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	2	122,40
+CMD-5408-014	07/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	5	11,90
+CMD-5408-015	10/08/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,10
+CMD-5408-016	10/08/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	3	122,40
+CMD-5408-016	10/08/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Informatique	Clavier	10	27,80
+CMD-5408-017	10/08/2026	Transports Kaya	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	1	37,40
+CMD-5408-018	11/08/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,20
+CMD-5408-018	11/08/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Classement	Boîte d'archives	5	3,20
+CMD-5408-018	11/08/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	8,20
+CMD-5408-019	13/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	20	6,20
+CMD-5408-019	13/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Caisson à tiroirs	6	122,40
+CMD-5408-020	20/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Classement	Classeur à levier	10	3,50
+CMD-5408-020	20/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	8,20
+CMD-5408-021	21/08/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Ramette papier A4	50	6,10
+CMD-5408-021	21/08/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	2	6,20
+CMD-5408-022	25/08/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	50	8,20
+CMD-5408-022	25/08/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	1	10,90
+CMD-5408-022	25/08/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,20
+CMD-5408-023	27/08/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Classement	Classeur à levier	20	3,50
+CMD-5408-023	27/08/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Classement	Boîte d'archives	20	3,20
+CMD-5408-023	27/08/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	5	10,90
+CMD-5408-024	31/08/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	9,80
+CMD-5408-024	31/08/2026	Épicerie Nguyen Et Fils	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,20
+CMD-5408-025	31/08/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	3,20
+CMD-5408-026	04/09/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Informatique	Souris sans fil	3	17,70
+CMD-5408-026	04/09/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	147,10
+CMD-5408-026	04/09/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	6	122,40
+CMD-5408-027	09/09/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	3	37,40
+CMD-5408-027	09/09/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	10	9,80
+CMD-5408-027	09/09/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	20	6,20
+CMD-5408-027	09/09/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	10	4,40
+CMD-5408-028	09/09/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,50
+CMD-5408-029	14/09/2026	Fleurs Et Compagnie	Grand Est	Léa Muller	Papeterie	Ramette papier A4	25	6,10
+CMD-5408-030	16/09/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Classement	Classeur à levier	10	3,50
+CMD-5408-030	16/09/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	10	11,90
+CMD-5408-031	18/09/2026	Transports Kaya	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,10
+CMD-5408-032	18/09/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	5	8,20
+CMD-5408-033	22/09/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	9,80
+CMD-5408-034	28/09/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	5	10,90
+CMD-5408-034	28/09/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	1	37,40
+CMD-5408-035	29/09/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	2	17,70
+CMD-5408-036	05/10/2026	Transports Kaya	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	5	2,50
+CMD-5408-037	05/10/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	10	3,20
+CMD-5408-037	05/10/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	5	2,50
+CMD-5408-038	05/10/2026	Librairie Folies D'encre	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	20	6,20
+CMD-5408-038	05/10/2026	Librairie Folies D'encre	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	10	2,50
+CMD-5408-039	05/10/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	5	8,20
+CMD-5408-040	05/10/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	9,80
+CMD-5408-040	05/10/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	5	8,20
+CMD-5408-041	08/10/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Mobilier	Lampe de bureau	1	37,40
+CMD-5408-041	08/10/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	10	11,90
+CMD-5408-042	12/10/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	3	10,90
+CMD-5408-042	12/10/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Clavier	10	27,80
+CMD-5408-042	12/10/2026	Pressing Moderne	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	20	9,80
+CMD-5408-043	20/10/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	20	9,80
+CMD-5408-043	20/10/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	3	37,40
+CMD-5408-043	20/10/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,10
+CMD-5408-043	20/10/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,50
+CMD-5408-044	22/10/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	2	10,90
+CMD-5408-045	02/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	20	4,40
+CMD-5408-045	02/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	10	6,10
+CMD-5408-046	03/11/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	1	37,40
+CMD-5408-046	03/11/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	10	6,10
+CMD-5408-047	03/11/2026	Librairie Folies D'encre	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	3	37,40
+CMD-5408-048	04/11/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	20	8,20
+CMD-5408-048	04/11/2026	Pressing Moderne	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	20	9,80
+CMD-5408-049	09/11/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	30	11,90
+CMD-5408-050	09/11/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	3	147,90
+CMD-5408-050	09/11/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	8,20
+CMD-5408-051	10/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	20	9,80
+CMD-5408-051	10/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	50	6,10
+CMD-5408-051	10/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	2	6,20
+CMD-5408-051	10/11/2026	Transports Kaya	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,40
+CMD-5408-052	10/11/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	2	6,20
+CMD-5408-053	11/11/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Mobilier	Lampe de bureau	6	37,40
+CMD-5408-053	11/11/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	6,10
+CMD-5408-054	19/11/2026	Optique Rousseau	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,40
+CMD-5408-055	23/11/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,10
+CMD-5408-055	23/11/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	8,20
+CMD-5408-056	30/11/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Informatique	Clavier	2	27,80
+CMD-5408-057	07/12/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Mobilier	Chaise de bureau	6	147,10
+CMD-5408-057	07/12/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Mobilier	Lampe de bureau	1	37,40
+CMD-5408-057	07/12/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	6,10
+CMD-5408-058	07/12/2026	Librairie Folies D'encre	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Classeur à levier	10	3,50
+CMD-5408-059	09/12/2026	Transports Kaya	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	4	122,40
+CMD-5408-060	09/12/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Clavier	5	27,80
+CMD-5408-060	09/12/2026	Pressing Moderne	Grand Est	Léa Muller	Classement	Boîte d'archives	5	3,20
+CMD-5408-061	14/12/2026	Librairie Folies D'encre	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Clavier	3	27,80
+CMD-5408-061	14/12/2026	Librairie Folies D'encre	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Écran 24 pouces	1	147,90
+CMD-5408-062	17/12/2026	Clinique Vétérinaire Du Canal	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	5	8,20
+CMD-5408-063	17/12/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	3	147,90
+CMD-5408-064	18/12/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	50	2,50
+CMD-5408-064	18/12/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	8,20
+CMD-5408-065	18/12/2026	Optique Rousseau	Grand Est	Léa Muller	Informatique	Souris sans fil	1	17,70

@@ -1,0 +1,134 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-8421-001	09/07/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	10	136,50
+CMD-8421-002	13/07/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	5	6,10
+CMD-8421-002	13/07/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	10	19,40
+CMD-8421-002	13/07/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	30	11,90
+CMD-8421-003	13/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	5	6,60
+CMD-8421-003	13/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Classement	Boîte d'archives	30	3,00
+CMD-8421-004	13/07/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	25	6,10
+CMD-8421-004	13/07/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	1	130,40
+CMD-8421-005	14/07/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	5	4,40
+CMD-8421-006	15/07/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	10,40
+CMD-8421-007	15/07/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	5	136,50
+CMD-8421-007	15/07/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,60
+CMD-8421-008	15/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	2	36,90
+CMD-8421-008	15/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Classement	Boîte d'archives	10	3,00
+CMD-8421-009	15/07/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	25	6,80
+CMD-8421-009	15/07/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	30	11,90
+CMD-8421-009	15/07/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Classement	Boîte d'archives	10	3,00
+CMD-8421-010	17/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-8421-010	17/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	5	3,70
+CMD-8421-011	20/07/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	1	130,40
+CMD-8421-012	21/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Classement	Chemises cartonnées (lot de 50)	5	11,90
+CMD-8421-012	21/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	50	6,10
+CMD-8421-012	21/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	2	161,50
+CMD-8421-012	21/07/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Informatique	Clavier	3	28,90
+CMD-8421-013	23/07/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Informatique	Souris sans fil	10	19,40
+CMD-8421-013	23/07/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Informatique	Clavier	10	28,90
+CMD-8421-014	27/07/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	6,60
+CMD-8421-014	27/07/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Clavier	2	28,90
+CMD-8421-015	29/07/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	10	10,30
+CMD-8421-016	06/08/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	5	4,40
+CMD-8421-017	10/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Caisson à tiroirs	6	130,40
+CMD-8421-017	10/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	1	36,90
+CMD-8421-018	19/08/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Classement	Boîte d'archives	5	3,00
+CMD-8421-019	20/08/2026	Agence Mercier Immobilier	Grand Est	Léa Muller	Mobilier	Lampe de bureau	3	36,90
+CMD-8421-019	20/08/2026	Agence Mercier Immobilier	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	2	4,40
+CMD-8421-020	20/08/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Papeterie	Bloc-notes A5	20	2,60
+CMD-8421-021	21/08/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,60
+CMD-8421-022	24/08/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	5	2,60
+CMD-8421-022	24/08/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	6	161,50
+CMD-8421-022	24/08/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	10,40
+CMD-8421-023	24/08/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	1	36,90
+CMD-8421-023	24/08/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	2	6,60
+CMD-8421-024	24/08/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Informatique	Souris sans fil	10	19,40
+CMD-8421-025	25/08/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Papeterie	Bloc-notes A5	25	2,60
+CMD-8421-025	25/08/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-8421-025	25/08/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Surligneurs (lot de 4)	5	4,40
+CMD-8421-025	25/08/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	10	10,30
+CMD-8421-026	28/08/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	10	4,40
+CMD-8421-027	01/09/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	30	11,90
+CMD-8421-027	01/09/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	5	10,30
+CMD-8421-028	03/09/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	10,30
+CMD-8421-029	03/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	3,00
+CMD-8421-029	03/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,10
+CMD-8421-029	03/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	5	4,40
+CMD-8421-030	07/09/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	2	10,30
+CMD-8421-030	07/09/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	20	2,60
+CMD-8421-031	07/09/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	3	136,50
+CMD-8421-031	07/09/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,70
+CMD-8421-032	08/09/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	5	6,80
+CMD-8421-032	08/09/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	10	6,10
+CMD-8421-033	10/09/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	5	10,40
+CMD-8421-033	10/09/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Informatique	Écran 24 pouces	2	136,50
+CMD-8421-033	10/09/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Papeterie	Ramette papier A4	25	6,10
+CMD-8421-034	11/09/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	3,00
+CMD-8421-034	11/09/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,60
+CMD-8421-034	11/09/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	5	11,90
+CMD-8421-034	11/09/2026	Épicerie Nguyen Et Fils	Île-de-France	Sarah Benali	Informatique	Clavier	3	28,90
+CMD-8421-035	11/09/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	5	6,80
+CMD-8421-036	14/09/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	50	6,10
+CMD-8421-037	16/09/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	10	6,80
+CMD-8421-037	16/09/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Mobilier	Caisson à tiroirs	1	130,40
+CMD-8421-038	18/09/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	30	11,90
+CMD-8421-039	21/09/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	5	10,30
+CMD-8421-039	21/09/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Informatique	Clé USB 64 Go	3	10,40
+CMD-8421-040	28/09/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	10	11,90
+CMD-8421-041	28/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,60
+CMD-8421-042	30/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	5	136,50
+CMD-8421-042	30/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	3,00
+CMD-8421-042	30/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,60
+CMD-8421-043	05/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	6,80
+CMD-8421-043	05/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,60
+CMD-8421-044	05/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	1	10,40
+CMD-8421-044	05/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,40
+CMD-8421-045	07/10/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,70
+CMD-8421-046	09/10/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	6	36,90
+CMD-8421-047	09/10/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Mobilier	Lampe de bureau	4	36,90
+CMD-8421-047	09/10/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	10,30
+CMD-8421-048	12/10/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Papeterie	Bloc-notes A5	10	2,60
+CMD-8421-049	13/10/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	20	11,90
+CMD-8421-049	13/10/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	6,10
+CMD-8421-049	13/10/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Classement	Boîte d'archives	20	3,00
+CMD-8421-050	19/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	5	10,40
+CMD-8421-050	19/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,60
+CMD-8421-051	26/10/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	5	3,70
+CMD-8421-051	26/10/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	5	6,80
+CMD-8421-052	27/10/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	25	6,10
+CMD-8421-053	02/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Stylos bille (boîte de 20)	10	6,60
+CMD-8421-053	02/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Informatique	Écran 24 pouces	10	136,50
+CMD-8421-053	02/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Papeterie	Bloc-notes A5	50	2,60
+CMD-8421-054	09/11/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	20	2,60
+CMD-8421-054	09/11/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	20	6,80
+CMD-8421-055	10/11/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Informatique	Clavier	5	28,90
+CMD-8421-056	10/11/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Classement	Chemises cartonnées (lot de 50)	5	11,90
+CMD-8421-056	10/11/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	2	10,30
+CMD-8421-057	11/11/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	10	2,60
+CMD-8421-058	19/11/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Classement	Classeur à levier	10	3,70
+CMD-8421-058	19/11/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	20	10,30
+CMD-8421-058	19/11/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Informatique	Clavier	5	28,90
+CMD-8421-058	19/11/2026	Bureau D'études Lambert	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	6	161,50
+CMD-8421-059	23/11/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	5	6,10
+CMD-8421-059	23/11/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	10,30
+CMD-8421-059	23/11/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	10	4,40
+CMD-8421-060	30/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	20	10,30
+CMD-8421-060	30/11/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	20	6,80
+CMD-8421-061	02/12/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	3	136,50
+CMD-8421-061	02/12/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	1	10,40
+CMD-8421-061	02/12/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	2	36,90
+CMD-8421-061	02/12/2026	Librairie Folies D'encre	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	1	28,90
+CMD-8421-062	07/12/2026	Coiffure L'instant	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	10	2,60
+CMD-8421-063	07/12/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	30	11,90
+CMD-8421-063	07/12/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	5	10,30
+CMD-8421-064	07/12/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	2	161,50
+CMD-8421-064	07/12/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	5	3,00
+CMD-8421-065	07/12/2026	Agence Mercier Immobilier	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	2	10,40
+CMD-8421-065	07/12/2026	Agence Mercier Immobilier	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	10,30
+CMD-8421-065	07/12/2026	Agence Mercier Immobilier	Grand Est	Léa Muller	Classement	Boîte d'archives	10	3,00
+CMD-8421-066	10/12/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	20	10,30
+CMD-8421-066	10/12/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Stylos bille (boîte de 20)	2	6,60
+CMD-8421-066	10/12/2026	Boulangerie Le Fournil	Occitanie	Hugo Ferreira	Écriture	Surligneurs (lot de 4)	10	4,40
+CMD-8421-067	14/12/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	2	161,50
+CMD-8421-067	14/12/2026	Optique Rousseau	Hauts-de-France	Karim Diallo	Informatique	Clé USB 64 Go	10	10,40
+CMD-8421-068	16/12/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	2	130,40
+CMD-8421-068	16/12/2026	Cabinet Haddad Conseil	Grand Est	Léa Muller	Informatique	Clavier	3	28,90

@@ -1,0 +1,141 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-3663-001	03/07/2026	Optique Rousseau	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,30
+CMD-3663-001	03/07/2026	Optique Rousseau	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,90
+CMD-3663-002	06/07/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	20	4,40
+CMD-3663-002	06/07/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-3663-002	06/07/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	2	33,60
+CMD-3663-002	06/07/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	10,00
+CMD-3663-003	06/07/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,40
+CMD-3663-004	06/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-3663-005	13/07/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	2	6,50
+CMD-3663-005	13/07/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	2	123,60
+CMD-3663-006	14/07/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	3	31,60
+CMD-3663-006	14/07/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	1	33,60
+CMD-3663-007	17/07/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Classement	Boîte d'archives	5	3,10
+CMD-3663-007	17/07/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,30
+CMD-3663-007	17/07/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,50
+CMD-3663-008	20/07/2026	Optique Rousseau	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	3	33,60
+CMD-3663-009	20/07/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	4	158,80
+CMD-3663-009	20/07/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	30	3,10
+CMD-3663-009	20/07/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	10	7,10
+CMD-3663-010	20/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	10	10,40
+CMD-3663-010	20/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	1	134,00
+CMD-3663-010	20/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	12,80
+CMD-3663-011	21/07/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	25	5,80
+CMD-3663-011	21/07/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	20	7,10
+CMD-3663-011	21/07/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	5	31,60
+CMD-3663-012	27/07/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	5	5,80
+CMD-3663-012	27/07/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	20	7,10
+CMD-3663-012	27/07/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	10	3,90
+CMD-3663-013	27/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Classement	Boîte d'archives	10	3,10
+CMD-3663-013	27/07/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,30
+CMD-3663-014	03/08/2026	Clinique Vétérinaire Du Canal	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	10	2,30
+CMD-3663-014	03/08/2026	Clinique Vétérinaire Du Canal	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	20	7,10
+CMD-3663-015	10/08/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	3	158,80
+CMD-3663-015	10/08/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	20	4,40
+CMD-3663-015	10/08/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	50	2,30
+CMD-3663-016	11/08/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	5	10,40
+CMD-3663-016	11/08/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	50	2,30
+CMD-3663-016	11/08/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	10	5,80
+CMD-3663-017	12/08/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	30	12,80
+CMD-3663-018	17/08/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	7,10
+CMD-3663-018	17/08/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	5	134,00
+CMD-3663-018	17/08/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-3663-019	18/08/2026	Clinique Vétérinaire Du Canal	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-3663-019	18/08/2026	Clinique Vétérinaire Du Canal	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	25	2,30
+CMD-3663-020	19/08/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	10	134,00
+CMD-3663-020	19/08/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-3663-020	19/08/2026	Hôtel Les Tilleuls	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	10	2,30
+CMD-3663-021	26/08/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	10	4,40
+CMD-3663-021	26/08/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	2	33,60
+CMD-3663-021	26/08/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	20	10,00
+CMD-3663-022	28/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,30
+CMD-3663-023	03/09/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,30
+CMD-3663-023	03/09/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	12,80
+CMD-3663-024	07/09/2026	Optique Rousseau	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,10
+CMD-3663-024	07/09/2026	Optique Rousseau	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-3663-024	07/09/2026	Optique Rousseau	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	5	10,00
+CMD-3663-025	07/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	5	10,40
+CMD-3663-025	07/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-3663-026	08/09/2026	Transports Kaya	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	5	2,30
+CMD-3663-026	08/09/2026	Transports Kaya	Grand Est	Léa Muller	Classement	Boîte d'archives	30	3,10
+CMD-3663-027	09/09/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	5,80
+CMD-3663-028	10/09/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	20	4,40
+CMD-3663-029	14/09/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,30
+CMD-3663-029	14/09/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	10	134,00
+CMD-3663-030	18/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	2	158,80
+CMD-3663-030	18/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,90
+CMD-3663-031	21/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	50	2,30
+CMD-3663-031	21/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Clavier	1	31,60
+CMD-3663-032	22/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	5,80
+CMD-3663-032	22/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-3663-033	23/09/2026	Transports Kaya	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	10	10,40
+CMD-3663-033	23/09/2026	Transports Kaya	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-3663-034	24/09/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	1	31,60
+CMD-3663-034	24/09/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	10	2,30
+CMD-3663-035	28/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	4	33,60
+CMD-3663-035	28/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	5	12,80
+CMD-3663-036	28/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,30
+CMD-3663-036	28/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,10
+CMD-3663-037	29/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-3663-037	29/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	7,10
+CMD-3663-038	05/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-3663-038	05/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	25	7,10
+CMD-3663-039	05/10/2026	Cabinet Haddad Conseil	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	50	7,10
+CMD-3663-040	05/10/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	10,40
+CMD-3663-041	09/10/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	20	10,00
+CMD-3663-041	09/10/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Classement	Classeur à levier	30	3,90
+CMD-3663-042	09/10/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	4	158,80
+CMD-3663-042	09/10/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	3,10
+CMD-3663-043	13/10/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Souris sans fil	2	19,50
+CMD-3663-044	15/10/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Souris sans fil	2	19,50
+CMD-3663-045	15/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	7,10
+CMD-3663-046	16/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	50	5,80
+CMD-3663-046	16/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	2	134,00
+CMD-3663-046	16/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-3663-046	16/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Clavier	1	31,60
+CMD-3663-047	19/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	5	10,40
+CMD-3663-047	19/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,30
+CMD-3663-048	22/10/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-3663-048	22/10/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	20	5,80
+CMD-3663-048	22/10/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	10	19,50
+CMD-3663-049	26/10/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-3663-049	26/10/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	20	3,90
+CMD-3663-050	30/10/2026	Optique Rousseau	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	1	134,00
+CMD-3663-051	02/11/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	5	7,10
+CMD-3663-052	02/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,10
+CMD-3663-052	02/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	158,80
+CMD-3663-053	05/11/2026	Clinique Vétérinaire Du Canal	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	3	158,80
+CMD-3663-053	05/11/2026	Clinique Vétérinaire Du Canal	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-3663-054	09/11/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	20	6,50
+CMD-3663-054	09/11/2026	Taxi Plaine Express	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	10	5,80
+CMD-3663-055	09/11/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	3	134,00
+CMD-3663-055	09/11/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	20	7,10
+CMD-3663-056	09/11/2026	Optique Rousseau	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,40
+CMD-3663-057	10/11/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	10	3,10
+CMD-3663-058	13/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,10
+CMD-3663-059	16/11/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	5	10,40
+CMD-3663-059	16/11/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	12,80
+CMD-3663-060	30/11/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	10	5,80
+CMD-3663-061	30/11/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	5,80
+CMD-3663-062	04/12/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	10	3,90
+CMD-3663-062	04/12/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Informatique	Clavier	10	31,60
+CMD-3663-063	07/12/2026	Optique Rousseau	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	3,10
+CMD-3663-063	07/12/2026	Optique Rousseau	Île-de-France	Sarah Benali	Classement	Classeur à levier	5	3,90
+CMD-3663-063	07/12/2026	Optique Rousseau	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	10,40
+CMD-3663-063	07/12/2026	Optique Rousseau	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,10
+CMD-3663-064	08/12/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-3663-064	08/12/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	10,00
+CMD-3663-065	09/12/2026	Transports Kaya	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,40
+CMD-3663-065	09/12/2026	Transports Kaya	Grand Est	Léa Muller	Classement	Boîte d'archives	10	3,10
+CMD-3663-065	09/12/2026	Transports Kaya	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-3663-066	15/12/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	2	31,60
+CMD-3663-066	15/12/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	10,00
+CMD-3663-066	15/12/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	3	123,60
+CMD-3663-067	16/12/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,30
+CMD-3663-067	16/12/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	6	33,60
+CMD-3663-067	16/12/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Souris sans fil	2	19,50
+CMD-3663-068	16/12/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	10	3,10
+CMD-3663-068	16/12/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	3	19,50
+CMD-3663-068	16/12/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	5	134,00
+CMD-3663-069	17/12/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	1	134,00

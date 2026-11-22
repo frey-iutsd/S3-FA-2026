@@ -1,0 +1,138 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-7720-001	03/07/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	4	150,30
+CMD-7720-001	03/07/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	2,90
+CMD-7720-001	03/07/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Informatique	Souris sans fil	10	19,50
+CMD-7720-002	06/07/2026	Transports Kaya	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,30
+CMD-7720-003	13/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	5	2,30
+CMD-7720-003	13/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	5	7,50
+CMD-7720-003	13/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	11,70
+CMD-7720-004	13/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,30
+CMD-7720-004	13/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Informatique	Souris sans fil	10	19,50
+CMD-7720-004	13/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,70
+CMD-7720-004	13/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	25	7,50
+CMD-7720-005	13/07/2026	Transports Kaya	Grand Est	Léa Muller	Classement	Classeur à levier	30	3,30
+CMD-7720-005	13/07/2026	Transports Kaya	Grand Est	Léa Muller	Informatique	Clavier	2	27,20
+CMD-7720-006	14/07/2026	Pressing Moderne	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,70
+CMD-7720-007	20/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	5,40
+CMD-7720-007	20/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,70
+CMD-7720-008	22/07/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Souris sans fil	10	19,50
+CMD-7720-008	22/07/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	2	6,70
+CMD-7720-008	22/07/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-7720-008	22/07/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,30
+CMD-7720-009	30/07/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	20	5,40
+CMD-7720-009	30/07/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	3	19,50
+CMD-7720-009	30/07/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	10	6,70
+CMD-7720-010	03/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	5	11,70
+CMD-7720-011	07/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,30
+CMD-7720-011	07/08/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	2	111,20
+CMD-7720-012	07/08/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	150,30
+CMD-7720-012	07/08/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,70
+CMD-7720-013	12/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	2	4,60
+CMD-7720-013	12/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	5	11,70
+CMD-7720-014	18/08/2026	Garage Diallo Auto	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	10	11,70
+CMD-7720-014	18/08/2026	Garage Diallo Auto	Île-de-France	Sarah Benali	Informatique	Souris sans fil	5	19,50
+CMD-7720-015	19/08/2026	Pressing Moderne	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,70
+CMD-7720-016	24/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	20	5,40
+CMD-7720-016	24/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	10	7,50
+CMD-7720-016	24/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	10	4,60
+CMD-7720-016	24/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	30	11,70
+CMD-7720-017	08/09/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	30	11,70
+CMD-7720-018	10/09/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	4	37,20
+CMD-7720-019	14/09/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	5	6,70
+CMD-7720-019	14/09/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	20	4,60
+CMD-7720-020	14/09/2026	Transports Kaya	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	20	2,30
+CMD-7720-020	14/09/2026	Transports Kaya	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	5	11,70
+CMD-7720-020	14/09/2026	Transports Kaya	Grand Est	Léa Muller	Papeterie	Ramette papier A4	5	5,40
+CMD-7720-021	16/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Classement	Classeur à levier	10	3,30
+CMD-7720-022	21/09/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Mobilier	Caisson à tiroirs	2	111,20
+CMD-7720-022	21/09/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-7720-023	21/09/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,70
+CMD-7720-024	23/09/2026	Clinique Vétérinaire Du Canal	Grand Est	Léa Muller	Informatique	Écran 24 pouces	1	136,20
+CMD-7720-024	23/09/2026	Clinique Vétérinaire Du Canal	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,70
+CMD-7720-025	25/09/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	50	2,30
+CMD-7720-026	28/09/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,30
+CMD-7720-027	29/09/2026	Cabinet Haddad Conseil	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	5	7,50
+CMD-7720-027	29/09/2026	Cabinet Haddad Conseil	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	10	2,30
+CMD-7720-027	29/09/2026	Cabinet Haddad Conseil	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	20	6,70
+CMD-7720-027	29/09/2026	Cabinet Haddad Conseil	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	10	4,60
+CMD-7720-028	01/10/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Informatique	Clé USB 64 Go	1	10,70
+CMD-7720-028	01/10/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Classement	Chemises cartonnées (lot de 50)	20	11,70
+CMD-7720-029	05/10/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	20	10,60
+CMD-7720-030	06/10/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,70
+CMD-7720-030	06/10/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Souris sans fil	2	19,50
+CMD-7720-031	07/10/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	3	150,30
+CMD-7720-031	07/10/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	5	10,60
+CMD-7720-032	09/10/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Informatique	Clavier	5	27,20
+CMD-7720-033	09/10/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	4	37,20
+CMD-7720-033	09/10/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	20	4,60
+CMD-7720-033	09/10/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-7720-034	14/10/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	7,50
+CMD-7720-034	14/10/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	20	4,60
+CMD-7720-035	16/10/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	2,90
+CMD-7720-035	16/10/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	1	111,20
+CMD-7720-035	16/10/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	1	10,70
+CMD-7720-036	19/10/2026	Pressing Moderne	Île-de-France	Sarah Benali	Informatique	Souris sans fil	2	19,50
+CMD-7720-037	19/10/2026	Garage Diallo Auto	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	10	5,40
+CMD-7720-037	19/10/2026	Garage Diallo Auto	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,30
+CMD-7720-038	19/10/2026	Cabinet Haddad Conseil	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	5	7,50
+CMD-7720-038	19/10/2026	Cabinet Haddad Conseil	Hauts-de-France	Karim Diallo	Classement	Chemises cartonnées (lot de 50)	30	11,70
+CMD-7720-038	19/10/2026	Cabinet Haddad Conseil	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,70
+CMD-7720-038	19/10/2026	Cabinet Haddad Conseil	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	5	3,30
+CMD-7720-039	28/10/2026	Clinique Vétérinaire Du Canal	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	25	2,30
+CMD-7720-039	28/10/2026	Clinique Vétérinaire Du Canal	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	10	11,70
+CMD-7720-039	28/10/2026	Clinique Vétérinaire Du Canal	Grand Est	Léa Muller	Classement	Classeur à levier	5	3,30
+CMD-7720-040	02/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-7720-040	02/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	10	7,50
+CMD-7720-040	02/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Informatique	Clé USB 64 Go	2	10,70
+CMD-7720-041	03/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	10	7,50
+CMD-7720-041	03/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Informatique	Clavier	10	27,20
+CMD-7720-041	03/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	10	5,40
+CMD-7720-042	06/11/2026	Garage Diallo Auto	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	10	5,40
+CMD-7720-042	06/11/2026	Garage Diallo Auto	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,60
+CMD-7720-042	06/11/2026	Garage Diallo Auto	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	2,90
+CMD-7720-043	12/11/2026	Bureau D'études Lambert	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	20	3,30
+CMD-7720-044	16/11/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	10	5,40
+CMD-7720-044	16/11/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Classement	Boîte d'archives	10	2,90
+CMD-7720-045	16/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	25	5,40
+CMD-7720-045	16/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Classement	Boîte d'archives	20	2,90
+CMD-7720-045	16/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Informatique	Écran 24 pouces	10	136,20
+CMD-7720-046	16/11/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	6	37,20
+CMD-7720-046	16/11/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	4	150,30
+CMD-7720-047	16/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Mobilier	Lampe de bureau	3	37,20
+CMD-7720-047	16/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Informatique	Clé USB 64 Go	3	10,70
+CMD-7720-047	16/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Informatique	Clavier	5	27,20
+CMD-7720-048	17/11/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,70
+CMD-7720-048	17/11/2026	Coiffure L'instant	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	1	136,20
+CMD-7720-049	18/11/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	5,40
+CMD-7720-049	18/11/2026	Restaurant Le Saint-Do	Île-de-France	Sarah Benali	Informatique	Clavier	2	27,20
+CMD-7720-050	23/11/2026	Librairie Folies D'encre	Occitanie	Hugo Ferreira	Classement	Boîte d'archives	10	2,90
+CMD-7720-051	23/11/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	11,70
+CMD-7720-052	25/11/2026	Garage Diallo Auto	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	10	136,20
+CMD-7720-052	25/11/2026	Garage Diallo Auto	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,50
+CMD-7720-053	25/11/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	5	136,20
+CMD-7720-053	25/11/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	30	2,90
+CMD-7720-053	25/11/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	20	10,60
+CMD-7720-054	27/11/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	10	7,50
+CMD-7720-055	03/12/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	5	5,40
+CMD-7720-056	04/12/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	5	3,30
+CMD-7720-056	04/12/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Informatique	Clavier	2	27,20
+CMD-7720-056	04/12/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Informatique	Clé USB 64 Go	3	10,70
+CMD-7720-057	04/12/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	3	19,50
+CMD-7720-057	04/12/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	2	150,30
+CMD-7720-058	07/12/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	50	2,30
+CMD-7720-059	08/12/2026	Transports Kaya	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	2	10,60
+CMD-7720-059	08/12/2026	Transports Kaya	Grand Est	Léa Muller	Papeterie	Ramette papier A4	20	5,40
+CMD-7720-059	08/12/2026	Transports Kaya	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,70
+CMD-7720-060	08/12/2026	Transports Kaya	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-7720-060	08/12/2026	Transports Kaya	Grand Est	Léa Muller	Informatique	Souris sans fil	5	19,50
+CMD-7720-061	11/12/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	5	10,70
+CMD-7720-061	11/12/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	10,60
+CMD-7720-062	14/12/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-7720-062	14/12/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Informatique	Clavier	1	27,20
+CMD-7720-063	14/12/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	5,40
+CMD-7720-063	14/12/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,60
+CMD-7720-064	14/12/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Classement	Classeur à levier	10	3,30
+CMD-7720-065	16/12/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Informatique	Clé USB 64 Go	3	10,70
+CMD-7720-065	16/12/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Informatique	Écran 24 pouces	2	136,20
+CMD-7720-065	16/12/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	10	5,40
+CMD-7720-065	16/12/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Papeterie	Bloc-notes A5	5	2,30

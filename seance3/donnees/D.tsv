@@ -1,0 +1,117 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-5731-001	02/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	20	10,10
+CMD-5731-001	02/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	5	6,30
+CMD-5731-001	02/07/2026	Laboratoire Analyses Plus	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	1	108,10
+CMD-5731-002	06/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	20	3,10
+CMD-5731-002	06/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	20	10,10
+CMD-5731-003	15/07/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	5	7,50
+CMD-5731-004	17/07/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,10
+CMD-5731-005	22/07/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Papeterie	Ramette papier A4	20	5,40
+CMD-5731-005	22/07/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Mobilier	Lampe de bureau	4	33,30
+CMD-5731-005	22/07/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Classement	Classeur à levier	10	3,80
+CMD-5731-006	23/07/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	2	4,10
+CMD-5731-006	23/07/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-5731-007	24/07/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	2	6,30
+CMD-5731-008	28/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	1	33,30
+CMD-5731-008	28/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	25	2,60
+CMD-5731-008	28/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Chemises cartonnées (lot de 50)	10	13,20
+CMD-5731-008	28/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	2	4,10
+CMD-5731-009	28/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Classeur à levier	30	3,80
+CMD-5731-009	28/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-5731-010	30/07/2026	Ferreira Rénovation	Occitanie	Hugo Ferreira	Classement	Classeur à levier	20	3,80
+CMD-5731-010	30/07/2026	Ferreira Rénovation	Occitanie	Hugo Ferreira	Mobilier	Chaise de bureau	1	141,30
+CMD-5731-011	03/08/2026	Ferreira Rénovation	Occitanie	Hugo Ferreira	Écriture	Stylos bille (boîte de 20)	2	6,30
+CMD-5731-011	03/08/2026	Ferreira Rénovation	Occitanie	Hugo Ferreira	Papeterie	Bloc-notes A5	5	2,60
+CMD-5731-011	03/08/2026	Ferreira Rénovation	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	25	7,50
+CMD-5731-011	03/08/2026	Ferreira Rénovation	Occitanie	Hugo Ferreira	Informatique	Écran 24 pouces	3	138,00
+CMD-5731-012	03/08/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	20	5,40
+CMD-5731-012	03/08/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	1	108,10
+CMD-5731-013	06/08/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	5	11,60
+CMD-5731-014	06/08/2026	Garage Diallo Auto	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	10	7,50
+CMD-5731-015	06/08/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Clé USB 64 Go	5	11,60
+CMD-5731-015	06/08/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	10	5,40
+CMD-5731-016	10/08/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	5	10,10
+CMD-5731-016	10/08/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	5	6,30
+CMD-5731-016	10/08/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	20	3,80
+CMD-5731-016	10/08/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	10	2,60
+CMD-5731-017	17/08/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	5	6,30
+CMD-5731-017	17/08/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Souris sans fil	1	19,10
+CMD-5731-018	24/08/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	10	4,10
+CMD-5731-019	26/08/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	30	13,20
+CMD-5731-019	26/08/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	20	10,10
+CMD-5731-020	27/08/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	10	5,40
+CMD-5731-020	27/08/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	25	7,50
+CMD-5731-020	27/08/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	10	2,60
+CMD-5731-020	27/08/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Chemises cartonnées (lot de 50)	20	13,20
+CMD-5731-021	31/08/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	11,60
+CMD-5731-022	08/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Informatique	Clavier	10	31,10
+CMD-5731-023	21/09/2026	Transports Kaya	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	20	6,30
+CMD-5731-024	22/09/2026	Hôtel Les Tilleuls	Île-de-France	Sarah Benali	Informatique	Clavier	10	31,10
+CMD-5731-024	22/09/2026	Hôtel Les Tilleuls	Île-de-France	Sarah Benali	Classement	Classeur à levier	30	3,80
+CMD-5731-025	23/09/2026	Ferreira Rénovation	Occitanie	Hugo Ferreira	Classement	Chemises cartonnées (lot de 50)	30	13,20
+CMD-5731-025	23/09/2026	Ferreira Rénovation	Occitanie	Hugo Ferreira	Écriture	Surligneurs (lot de 4)	10	4,10
+CMD-5731-026	28/09/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	3	33,30
+CMD-5731-026	28/09/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	10	5,40
+CMD-5731-027	28/09/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,30
+CMD-5731-028	29/09/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	5	2,60
+CMD-5731-028	29/09/2026	Pressing Moderne	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	6	108,10
+CMD-5731-029	06/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	1	33,30
+CMD-5731-029	06/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	5,40
+CMD-5731-030	08/10/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	5,40
+CMD-5731-030	08/10/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	3,10
+CMD-5731-030	08/10/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	13,20
+CMD-5731-031	19/10/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	5,40
+CMD-5731-031	19/10/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Clavier	2	31,10
+CMD-5731-031	19/10/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	10,10
+CMD-5731-032	22/10/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Écran 24 pouces	1	138,00
+CMD-5731-032	22/10/2026	Pharmacie De La Basilique	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	10	11,60
+CMD-5731-033	22/10/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	10	5,40
+CMD-5731-033	22/10/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	1	11,60
+CMD-5731-033	22/10/2026	Coiffure L'instant	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	1	33,30
+CMD-5731-034	23/10/2026	Transports Kaya	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	10	7,50
+CMD-5731-034	23/10/2026	Transports Kaya	Hauts-de-France	Karim Diallo	Classement	Chemises cartonnées (lot de 50)	20	13,20
+CMD-5731-035	26/10/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,30
+CMD-5731-035	26/10/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,10
+CMD-5731-035	26/10/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Informatique	Clavier	1	31,10
+CMD-5731-036	28/10/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	20	10,10
+CMD-5731-036	28/10/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	50	2,60
+CMD-5731-037	30/10/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	1	11,60
+CMD-5731-037	30/10/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	5	2,60
+CMD-5731-037	30/10/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Informatique	Écran 24 pouces	2	138,00
+CMD-5731-038	02/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,10
+CMD-5731-039	09/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,50
+CMD-5731-039	09/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	1	138,00
+CMD-5731-039	09/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Informatique	Clavier	1	31,10
+CMD-5731-040	09/11/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	5,40
+CMD-5731-041	10/11/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,60
+CMD-5731-041	10/11/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	10	13,20
+CMD-5731-042	11/11/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,60
+CMD-5731-043	11/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Classement	Classeur à levier	30	3,80
+CMD-5731-043	11/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,50
+CMD-5731-044	13/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	5	10,10
+CMD-5731-045	16/11/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	10,10
+CMD-5731-045	16/11/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	2	138,00
+CMD-5731-046	16/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	20	4,10
+CMD-5731-046	16/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	2	138,00
+CMD-5731-046	16/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Classement	Classeur à levier	30	3,80
+CMD-5731-047	16/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	5,40
+CMD-5731-047	16/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Informatique	Clavier	3	31,10
+CMD-5731-048	18/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,60
+CMD-5731-048	18/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	10	138,00
+CMD-5731-049	18/11/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	3,10
+CMD-5731-049	18/11/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Classement	Classeur à levier	5	3,80
+CMD-5731-050	19/11/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-5731-050	19/11/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	3	11,60
+CMD-5731-050	19/11/2026	Imprimerie Du Stade	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,10
+CMD-5731-051	24/11/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	5,40
+CMD-5731-051	24/11/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Mobilier	Lampe de bureau	3	33,30
+CMD-5731-052	25/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	20	4,10
+CMD-5731-052	25/11/2026	Auto-École Camara	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	1	138,00
+CMD-5731-053	30/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Classement	Classeur à levier	5	3,80
+CMD-5731-053	30/11/2026	Librairie Folies D'encre	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	5,40
+CMD-5731-054	07/12/2026	Auto-École Camara	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	4	33,30
+CMD-5731-055	07/12/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	6	141,30
+CMD-5731-055	07/12/2026	Menuiserie Bouzid	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	1	33,30
+CMD-5731-056	09/12/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Informatique	Écran 24 pouces	5	138,00
+CMD-5731-056	09/12/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	5	2,60
+CMD-5731-057	09/12/2026	Crèche Les Petits Pas	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	10,10

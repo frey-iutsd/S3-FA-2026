@@ -1,0 +1,131 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-4199-001	01/07/2026	Librairie Folies D'encre	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	20	8,00
+CMD-4199-001	01/07/2026	Librairie Folies D'encre	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	25	6,20
+CMD-4199-001	01/07/2026	Librairie Folies D'encre	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-4199-002	02/07/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	10	6,20
+CMD-4199-002	02/07/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-4199-003	06/07/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	25	2,50
+CMD-4199-003	06/07/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Classement	Chemises cartonnées (lot de 50)	10	11,60
+CMD-4199-004	08/07/2026	Bureau D'études Lambert	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	10	4,30
+CMD-4199-005	10/07/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Informatique	Souris sans fil	2	18,20
+CMD-4199-005	10/07/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Classement	Classeur à levier	10	3,60
+CMD-4199-006	13/07/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Clavier	1	30,60
+CMD-4199-006	13/07/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-4199-007	15/07/2026	Pharmacie De La Basilique	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	20	8,00
+CMD-4199-008	20/07/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	20	6,30
+CMD-4199-009	22/07/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	5	4,30
+CMD-4199-010	22/07/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	3	12,50
+CMD-4199-011	24/07/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	10	6,20
+CMD-4199-011	24/07/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	30	3,20
+CMD-4199-012	28/07/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	5	140,20
+CMD-4199-013	28/07/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	20	10,60
+CMD-4199-013	28/07/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	10	4,30
+CMD-4199-014	28/07/2026	Pharmacie De La Basilique	Occitanie	Hugo Ferreira	Écriture	Stylos bille (boîte de 20)	10	6,30
+CMD-4199-014	28/07/2026	Pharmacie De La Basilique	Occitanie	Hugo Ferreira	Classement	Boîte d'archives	5	3,20
+CMD-4199-015	29/07/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	5	6,20
+CMD-4199-015	29/07/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	25	2,50
+CMD-4199-016	30/07/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Informatique	Souris sans fil	2	18,20
+CMD-4199-016	30/07/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Classement	Classeur à levier	5	3,60
+CMD-4199-016	30/07/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Classement	Boîte d'archives	10	3,20
+CMD-4199-017	05/08/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,30
+CMD-4199-017	05/08/2026	Boulangerie Le Fournil	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	10	6,20
+CMD-4199-018	10/08/2026	Pharmacie De La Basilique	Occitanie	Hugo Ferreira	Papeterie	Ramette papier A4	50	6,20
+CMD-4199-018	10/08/2026	Pharmacie De La Basilique	Occitanie	Hugo Ferreira	Informatique	Clavier	3	30,60
+CMD-4199-018	10/08/2026	Pharmacie De La Basilique	Occitanie	Hugo Ferreira	Écriture	Surligneurs (lot de 4)	10	4,30
+CMD-4199-018	10/08/2026	Pharmacie De La Basilique	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	10	8,00
+CMD-4199-019	12/08/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	5	10,60
+CMD-4199-019	12/08/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	50	6,20
+CMD-4199-019	12/08/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Classement	Classeur à levier	10	3,60
+CMD-4199-020	17/08/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	5	2,50
+CMD-4199-020	17/08/2026	Traiteur Saveurs D'asie	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	1	12,50
+CMD-4199-021	21/08/2026	Garage Diallo Auto	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	4	118,10
+CMD-4199-022	26/08/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	5	4,30
+CMD-4199-022	26/08/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	20	10,60
+CMD-4199-023	31/08/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	6,20
+CMD-4199-023	31/08/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-4199-024	31/08/2026	Transports Kaya	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	20	6,30
+CMD-4199-024	31/08/2026	Transports Kaya	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	6	161,70
+CMD-4199-025	31/08/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Informatique	Souris sans fil	3	18,20
+CMD-4199-025	31/08/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	20	10,60
+CMD-4199-026	01/09/2026	Transports Kaya	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Classeur à levier	10	3,60
+CMD-4199-026	01/09/2026	Transports Kaya	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	5	4,30
+CMD-4199-027	02/09/2026	Garage Diallo Auto	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	5	11,60
+CMD-4199-027	02/09/2026	Garage Diallo Auto	Grand Est	Léa Muller	Classement	Boîte d'archives	30	3,20
+CMD-4199-027	02/09/2026	Garage Diallo Auto	Grand Est	Léa Muller	Informatique	Clavier	1	30,60
+CMD-4199-028	14/09/2026	Garage Diallo Auto	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	6	118,10
+CMD-4199-028	14/09/2026	Garage Diallo Auto	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	2	4,30
+CMD-4199-029	16/09/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	10	2,50
+CMD-4199-029	16/09/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	6	38,20
+CMD-4199-030	17/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	25	6,20
+CMD-4199-030	17/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	20	3,20
+CMD-4199-030	17/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Chemises cartonnées (lot de 50)	20	11,60
+CMD-4199-031	21/09/2026	Garage Diallo Auto	Grand Est	Léa Muller	Papeterie	Ramette papier A4	25	6,20
+CMD-4199-031	21/09/2026	Garage Diallo Auto	Grand Est	Léa Muller	Classement	Classeur à levier	20	3,60
+CMD-4199-032	21/09/2026	Clinique Vétérinaire Du Canal	Île-de-France	Sarah Benali	Informatique	Clavier	1	30,60
+CMD-4199-033	21/09/2026	Librairie Folies D'encre	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	3	38,20
+CMD-4199-034	21/09/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	1	161,70
+CMD-4199-034	21/09/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	3	38,20
+CMD-4199-034	21/09/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	50	6,20
+CMD-4199-035	22/09/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Clavier	3	30,60
+CMD-4199-036	28/09/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,30
+CMD-4199-037	28/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	10	4,30
+CMD-4199-038	28/09/2026	Pharmacie De La Basilique	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-4199-039	01/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,20
+CMD-4199-040	07/10/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-4199-041	07/10/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Caisson à tiroirs	1	118,10
+CMD-4199-041	07/10/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	6	38,20
+CMD-4199-042	08/10/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	20	8,00
+CMD-4199-042	08/10/2026	Pressing Moderne	Grand Est	Léa Muller	Mobilier	Chaise de bureau	1	161,70
+CMD-4199-042	08/10/2026	Pressing Moderne	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	20	11,60
+CMD-4199-042	08/10/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Ramette papier A4	50	6,20
+CMD-4199-043	08/10/2026	Librairie Folies D'encre	Hauts-de-France	Karim Diallo	Informatique	Clé USB 64 Go	5	12,50
+CMD-4199-044	12/10/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,50
+CMD-4199-045	13/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,20
+CMD-4199-046	16/10/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	10	3,20
+CMD-4199-046	16/10/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Marqueurs tableau blanc	2	10,60
+CMD-4199-047	16/10/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	20	8,00
+CMD-4199-048	23/10/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Informatique	Clavier	1	30,60
+CMD-4199-048	23/10/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	5	10,60
+CMD-4199-049	26/10/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	8,00
+CMD-4199-049	26/10/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Informatique	Clavier	1	30,60
+CMD-4199-050	28/10/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	5	4,30
+CMD-4199-051	29/10/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Caisson à tiroirs	6	118,10
+CMD-4199-051	29/10/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	10	6,20
+CMD-4199-051	29/10/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Souris sans fil	3	18,20
+CMD-4199-052	02/11/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	20	10,60
+CMD-4199-052	02/11/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	1	161,70
+CMD-4199-053	09/11/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Caisson à tiroirs	4	118,10
+CMD-4199-053	09/11/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Souris sans fil	3	18,20
+CMD-4199-054	09/11/2026	Optique Rousseau	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	2	161,70
+CMD-4199-055	09/11/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	3	12,50
+CMD-4199-055	09/11/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-4199-056	12/11/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	5	6,20
+CMD-4199-057	16/11/2026	Garage Diallo Auto	Grand Est	Léa Muller	Mobilier	Lampe de bureau	2	38,20
+CMD-4199-057	16/11/2026	Garage Diallo Auto	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	5	12,50
+CMD-4199-058	18/11/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	10	10,60
+CMD-4199-058	18/11/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	50	6,20
+CMD-4199-058	18/11/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	20	6,30
+CMD-4199-058	18/11/2026	Taxi Plaine Express	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	25	8,00
+CMD-4199-059	20/11/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,50
+CMD-4199-059	20/11/2026	Imprimerie Du Stade	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	2	140,20
+CMD-4199-060	27/11/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	50	2,50
+CMD-4199-060	27/11/2026	Hôtel Les Tilleuls	Grand Est	Léa Muller	Informatique	Écran 24 pouces	5	140,20
+CMD-4199-061	02/12/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	10	4,30
+CMD-4199-061	02/12/2026	Restaurant Le Saint-Do	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	10	6,20
+CMD-4199-062	07/12/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Classeur à levier	20	3,60
+CMD-4199-063	07/12/2026	Garage Diallo Auto	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	2	10,60
+CMD-4199-063	07/12/2026	Garage Diallo Auto	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	20	11,60
+CMD-4199-063	07/12/2026	Garage Diallo Auto	Grand Est	Léa Muller	Informatique	Clavier	10	30,60
+CMD-4199-064	09/12/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Classement	Chemises cartonnées (lot de 50)	5	11,60
+CMD-4199-064	09/12/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Mobilier	Caisson à tiroirs	1	118,10
+CMD-4199-064	09/12/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Classement	Boîte d'archives	30	3,20
+CMD-4199-065	11/12/2026	Librairie Folies D'encre	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	1	161,70
+CMD-4199-066	11/12/2026	Pressing Moderne	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	10,60
+CMD-4199-066	11/12/2026	Pressing Moderne	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	20	11,60
+CMD-4199-067	16/12/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	10	2,50
+CMD-4199-067	16/12/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	10	6,30
+CMD-4199-067	16/12/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	25	6,20
+CMD-4199-068	18/12/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	8,00
+CMD-4199-068	18/12/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	1	118,10
+CMD-4199-068	18/12/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	3,20
+CMD-4199-069	18/12/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Classement	Chemises cartonnées (lot de 50)	20	11,60

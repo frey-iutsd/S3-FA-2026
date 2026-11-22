@@ -1,0 +1,127 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-2916-001	15/07/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	6,30
+CMD-2916-001	15/07/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	20	2,40
+CMD-2916-002	15/07/2026	Auto-École Camara	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	11,80
+CMD-2916-002	15/07/2026	Auto-École Camara	Île-de-France	Sarah Benali	Informatique	Clavier	1	29,00
+CMD-2916-003	21/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,40
+CMD-2916-003	21/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	10,50
+CMD-2916-004	27/07/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Ramette papier A4	20	6,30
+CMD-2916-004	27/07/2026	Pressing Moderne	Grand Est	Léa Muller	Mobilier	Chaise de bureau	2	143,80
+CMD-2916-004	27/07/2026	Pressing Moderne	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	5	10,50
+CMD-2916-004	27/07/2026	Pressing Moderne	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	4	115,40
+CMD-2916-005	27/07/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	25	6,30
+CMD-2916-005	27/07/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	6	37,50
+CMD-2916-005	27/07/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	10	12,10
+CMD-2916-006	27/07/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	1	115,40
+CMD-2916-006	27/07/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,90
+CMD-2916-006	27/07/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,60
+CMD-2916-007	27/07/2026	Auto-École Camara	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	5	128,50
+CMD-2916-007	27/07/2026	Auto-École Camara	Île-de-France	Sarah Benali	Classement	Classeur à levier	30	3,90
+CMD-2916-007	27/07/2026	Auto-École Camara	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,10
+CMD-2916-008	29/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	5	6,30
+CMD-2916-008	29/07/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	2	6,60
+CMD-2916-009	29/07/2026	Épicerie Nguyen Et Fils	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	5	12,10
+CMD-2916-010	30/07/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-2916-010	30/07/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	10	3,90
+CMD-2916-010	30/07/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	5	2,40
+CMD-2916-011	30/07/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	2	6,60
+CMD-2916-011	30/07/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	143,80
+CMD-2916-011	30/07/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	2	37,50
+CMD-2916-012	05/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	30	3,10
+CMD-2916-012	05/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	5	10,50
+CMD-2916-012	05/08/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Classeur à levier	20	3,90
+CMD-2916-013	10/08/2026	Restaurant Le Saint-Do	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	5	2,40
+CMD-2916-013	10/08/2026	Restaurant Le Saint-Do	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	2	10,50
+CMD-2916-014	14/08/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Mobilier	Chaise de bureau	1	143,80
+CMD-2916-014	14/08/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Écriture	Marqueurs tableau blanc	2	10,50
+CMD-2916-014	14/08/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Classement	Classeur à levier	30	3,90
+CMD-2916-014	14/08/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	5	7,10
+CMD-2916-015	17/08/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	5	29,00
+CMD-2916-015	17/08/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	1	12,10
+CMD-2916-016	17/08/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	5	7,10
+CMD-2916-017	17/08/2026	Clinique Vétérinaire Du Canal	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	2	10,50
+CMD-2916-018	18/08/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	5	10,50
+CMD-2916-018	18/08/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	50	6,30
+CMD-2916-019	20/08/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,30
+CMD-2916-019	20/08/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	20	11,80
+CMD-2916-020	24/08/2026	Épicerie Nguyen Et Fils	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	3	115,40
+CMD-2916-020	24/08/2026	Épicerie Nguyen Et Fils	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	5	2,40
+CMD-2916-021	25/08/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-2916-021	25/08/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	25	2,40
+CMD-2916-022	27/08/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	143,80
+CMD-2916-022	27/08/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	3	37,50
+CMD-2916-022	27/08/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	2	6,60
+CMD-2916-022	27/08/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,10
+CMD-2916-023	27/08/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Informatique	Clavier	5	29,00
+CMD-2916-024	02/09/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	10	10,50
+CMD-2916-025	08/09/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	2	115,40
+CMD-2916-026	14/09/2026	Optique Rousseau	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	10	10,50
+CMD-2916-027	15/09/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	5	10,50
+CMD-2916-028	18/09/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	10,50
+CMD-2916-029	23/09/2026	Optique Rousseau	Occitanie	Hugo Ferreira	Papeterie	Enveloppes (boîte de 50)	50	7,10
+CMD-2916-029	23/09/2026	Optique Rousseau	Occitanie	Hugo Ferreira	Informatique	Souris sans fil	1	20,10
+CMD-2916-029	23/09/2026	Optique Rousseau	Occitanie	Hugo Ferreira	Papeterie	Bloc-notes A5	10	2,40
+CMD-2916-029	23/09/2026	Optique Rousseau	Occitanie	Hugo Ferreira	Mobilier	Chaise de bureau	4	143,80
+CMD-2916-030	28/09/2026	Menuiserie Bouzid	Hauts-de-France	Karim Diallo	Classement	Chemises cartonnées (lot de 50)	5	11,80
+CMD-2916-030	28/09/2026	Menuiserie Bouzid	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	50	7,10
+CMD-2916-031	28/09/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	10	2,40
+CMD-2916-032	28/09/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Clavier	3	29,00
+CMD-2916-032	28/09/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,40
+CMD-2916-032	28/09/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	6	143,80
+CMD-2916-033	28/09/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-2916-034	01/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Souris sans fil	1	20,10
+CMD-2916-034	01/10/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	3	128,50
+CMD-2916-035	01/10/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	5	12,10
+CMD-2916-036	01/10/2026	Pressing Moderne	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	1	115,40
+CMD-2916-037	05/10/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	10	10,50
+CMD-2916-037	05/10/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	50	7,10
+CMD-2916-038	06/10/2026	Clinique Vétérinaire Du Canal	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Marqueurs tableau blanc	2	10,50
+CMD-2916-038	06/10/2026	Clinique Vétérinaire Du Canal	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	20	6,30
+CMD-2916-039	08/10/2026	Épicerie Nguyen Et Fils	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	2	37,50
+CMD-2916-040	23/10/2026	Optique Rousseau	Occitanie	Hugo Ferreira	Écriture	Marqueurs tableau blanc	5	10,50
+CMD-2916-040	23/10/2026	Optique Rousseau	Occitanie	Hugo Ferreira	Informatique	Clé USB 64 Go	10	12,10
+CMD-2916-041	02/11/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Ramette papier A4	5	6,30
+CMD-2916-041	02/11/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	5	12,10
+CMD-2916-042	02/11/2026	Garage Diallo Auto	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	7,10
+CMD-2916-042	02/11/2026	Garage Diallo Auto	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	5	12,10
+CMD-2916-043	02/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	6,30
+CMD-2916-044	02/11/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	3	37,50
+CMD-2916-044	02/11/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	20	2,40
+CMD-2916-044	02/11/2026	Boulangerie Le Fournil	Île-de-France	Sarah Benali	Classement	Boîte d'archives	30	3,10
+CMD-2916-045	06/11/2026	Pressing Moderne	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	5	6,60
+CMD-2916-045	06/11/2026	Pressing Moderne	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	20	11,80
+CMD-2916-045	06/11/2026	Pressing Moderne	Grand Est	Léa Muller	Informatique	Clavier	1	29,00
+CMD-2916-046	09/11/2026	Épicerie Nguyen Et Fils	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Lampe de bureau	1	37,50
+CMD-2916-046	09/11/2026	Épicerie Nguyen Et Fils	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	10	6,30
+CMD-2916-046	09/11/2026	Épicerie Nguyen Et Fils	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	30	3,90
+CMD-2916-047	09/11/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Bloc-notes A5	50	2,40
+CMD-2916-047	09/11/2026	Laboratoire Analyses Plus	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Ramette papier A4	20	6,30
+CMD-2916-048	10/11/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Surligneurs (lot de 4)	10	4,00
+CMD-2916-048	10/11/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Écriture	Stylos bille (boîte de 20)	10	6,60
+CMD-2916-049	11/11/2026	Menuiserie Bouzid	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	20	6,60
+CMD-2916-049	11/11/2026	Menuiserie Bouzid	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	10	2,40
+CMD-2916-050	11/11/2026	Pressing Moderne	Grand Est	Léa Muller	Classement	Boîte d'archives	5	3,10
+CMD-2916-051	23/11/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,40
+CMD-2916-052	23/11/2026	Crèche Les Petits Pas	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	25	2,40
+CMD-2916-053	27/11/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,40
+CMD-2916-053	27/11/2026	Pressing Moderne	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	7,10
+CMD-2916-053	27/11/2026	Pressing Moderne	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	2	4,00
+CMD-2916-054	02/12/2026	Épicerie Nguyen Et Fils	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	20	3,10
+CMD-2916-055	03/12/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Boîte d'archives	20	3,10
+CMD-2916-055	03/12/2026	Transports Kaya	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clavier	3	29,00
+CMD-2916-056	04/12/2026	Restaurant Le Saint-Do	Hauts-de-France	Karim Diallo	Classement	Boîte d'archives	5	3,10
+CMD-2916-057	07/12/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	50	7,10
+CMD-2916-058	10/12/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Informatique	Souris sans fil	3	20,10
+CMD-2916-058	10/12/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	5	10,50
+CMD-2916-058	10/12/2026	Agence Mercier Immobilier	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	2	6,60
+CMD-2916-059	14/12/2026	Menuiserie Bouzid	Hauts-de-France	Karim Diallo	Informatique	Clavier	1	29,00
+CMD-2916-059	14/12/2026	Menuiserie Bouzid	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	10	7,10
+CMD-2916-059	14/12/2026	Menuiserie Bouzid	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	1	37,50
+CMD-2916-059	14/12/2026	Menuiserie Bouzid	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	5	4,00
+CMD-2916-060	14/12/2026	Taxi Plaine Express	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	20	3,10
+CMD-2916-061	14/12/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Informatique	Écran 24 pouces	10	128,50
+CMD-2916-062	17/12/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Classement	Classeur à levier	20	3,90
+CMD-2916-063	17/12/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	2	115,40
+CMD-2916-063	17/12/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	5	7,10
+CMD-2916-063	17/12/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Informatique	Clavier	2	29,00
+CMD-2916-063	17/12/2026	Librairie Folies D'encre	Grand Est	Léa Muller	Mobilier	Chaise de bureau	1	143,80

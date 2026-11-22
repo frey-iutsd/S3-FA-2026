@@ -1,0 +1,119 @@
+N° commande	Date	Client	Région	Commercial	Catégorie	Produit	Quantité	Prix unitaire
+CMD-2593-001	06/07/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-2593-001	06/07/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	135,30
+CMD-2593-001	06/07/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Classement	Classeur à levier	20	3,70
+CMD-2593-002	13/07/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	5	5,50
+CMD-2593-002	13/07/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-2593-003	15/07/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	6	35,20
+CMD-2593-003	15/07/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-2593-003	15/07/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	25	5,50
+CMD-2593-004	20/07/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	5	13,00
+CMD-2593-004	20/07/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Classement	Boîte d'archives	30	2,70
+CMD-2593-005	27/07/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Papeterie	Bloc-notes A5	10	2,50
+CMD-2593-006	27/07/2026	Restaurant Le Saint-Do	Grand Est	Léa Muller	Classement	Classeur à levier	30	3,70
+CMD-2593-007	30/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	10	2,50
+CMD-2593-007	30/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-2593-008	31/07/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Surligneurs (lot de 4)	10	4,50
+CMD-2593-009	31/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-2593-009	31/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	20	4,50
+CMD-2593-009	31/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Classement	Boîte d'archives	10	2,70
+CMD-2593-009	31/07/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Bloc-notes A5	25	2,50
+CMD-2593-010	03/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Chaise de bureau	2	135,30
+CMD-2593-010	03/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-2593-010	03/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Mobilier	Caisson à tiroirs	6	130,50
+CMD-2593-011	05/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	12,60
+CMD-2593-011	05/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Souris sans fil	3	17,60
+CMD-2593-011	05/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Écriture	Stylos bille (boîte de 20)	2	6,50
+CMD-2593-011	05/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Classement	Chemises cartonnées (lot de 50)	5	13,00
+CMD-2593-012	06/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	10	9,90
+CMD-2593-012	06/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Souris sans fil	5	17,60
+CMD-2593-012	06/08/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	2	141,10
+CMD-2593-013	13/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	10	17,60
+CMD-2593-013	13/08/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Clé USB 64 Go	3	12,60
+CMD-2593-014	18/08/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	5	7,50
+CMD-2593-014	18/08/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	6	130,50
+CMD-2593-014	18/08/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,50
+CMD-2593-015	24/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	2	141,10
+CMD-2593-015	24/08/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	5	4,50
+CMD-2593-016	24/08/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Chemises cartonnées (lot de 50)	30	13,00
+CMD-2593-017	07/09/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	5	7,50
+CMD-2593-017	07/09/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	3	12,60
+CMD-2593-018	08/09/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	20	4,50
+CMD-2593-019	11/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Chaise de bureau	2	135,30
+CMD-2593-019	11/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	10	2,70
+CMD-2593-020	14/09/2026	Transports Kaya	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	4	130,50
+CMD-2593-021	14/09/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,50
+CMD-2593-022	16/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	25	5,50
+CMD-2593-022	16/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Mobilier	Lampe de bureau	4	35,20
+CMD-2593-022	16/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Chemises cartonnées (lot de 50)	20	13,00
+CMD-2593-023	16/09/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	2	35,20
+CMD-2593-024	18/09/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,50
+CMD-2593-024	18/09/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	10	13,00
+CMD-2593-024	18/09/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-2593-025	21/09/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Bloc-notes A5	25	2,50
+CMD-2593-026	22/09/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	3	12,60
+CMD-2593-026	22/09/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	10	4,50
+CMD-2593-027	23/09/2026	Pressing Moderne	Hauts-de-France	Karim Diallo	Papeterie	Ramette papier A4	5	5,50
+CMD-2593-027	23/09/2026	Pressing Moderne	Hauts-de-France	Karim Diallo	Écriture	Marqueurs tableau blanc	20	9,90
+CMD-2593-028	24/09/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Informatique	Clavier	3	30,30
+CMD-2593-029	25/09/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Informatique	Écran 24 pouces	5	141,10
+CMD-2593-029	25/09/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	20	5,50
+CMD-2593-029	25/09/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-2593-030	25/09/2026	Restaurant Le Saint-Do	Grand Est	Léa Muller	Mobilier	Lampe de bureau	4	35,20
+CMD-2593-030	25/09/2026	Restaurant Le Saint-Do	Grand Est	Léa Muller	Classement	Classeur à levier	20	3,70
+CMD-2593-031	25/09/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Ramette papier A4	25	5,50
+CMD-2593-032	02/10/2026	Fleurs Et Compagnie	Occitanie	Hugo Ferreira	Informatique	Clé USB 64 Go	1	12,60
+CMD-2593-033	02/10/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	10	7,50
+CMD-2593-033	02/10/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	1	12,60
+CMD-2593-034	05/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Classement	Boîte d'archives	20	2,70
+CMD-2593-035	05/10/2026	Restaurant Le Saint-Do	Grand Est	Léa Muller	Papeterie	Ramette papier A4	10	5,50
+CMD-2593-035	05/10/2026	Restaurant Le Saint-Do	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	6	130,50
+CMD-2593-036	07/10/2026	Transports Kaya	Grand Est	Léa Muller	Mobilier	Lampe de bureau	6	35,20
+CMD-2593-036	07/10/2026	Transports Kaya	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-2593-036	07/10/2026	Transports Kaya	Grand Est	Léa Muller	Classement	Boîte d'archives	5	2,70
+CMD-2593-037	07/10/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	4	135,30
+CMD-2593-038	12/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Clavier	3	30,30
+CMD-2593-038	12/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Mobilier	Chaise de bureau	1	135,30
+CMD-2593-038	12/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	3	35,20
+CMD-2593-039	12/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	2	12,60
+CMD-2593-039	12/10/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	9,90
+CMD-2593-040	12/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	10	7,50
+CMD-2593-040	12/10/2026	Crèche Les Petits Pas	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	1	35,20
+CMD-2593-041	12/10/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Informatique	Souris sans fil	10	17,60
+CMD-2593-042	13/10/2026	Menuiserie Bouzid	Auvergne-Rhône-Alpes	Thomas Nguyen	Classement	Classeur à levier	10	3,70
+CMD-2593-043	23/10/2026	Auto-École Camara	Provence-Alpes-Côte d'Azur	Nadia Haddad	Papeterie	Ramette papier A4	5	5,50
+CMD-2593-044	26/10/2026	Pressing Moderne	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-2593-045	29/10/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Enveloppes (boîte de 50)	50	7,50
+CMD-2593-045	29/10/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Écriture	Marqueurs tableau blanc	2	9,90
+CMD-2593-046	13/11/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	50	2,50
+CMD-2593-046	13/11/2026	Boulangerie Le Fournil	Grand Est	Léa Muller	Informatique	Écran 24 pouces	10	141,10
+CMD-2593-047	16/11/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-2593-048	16/11/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,50
+CMD-2593-048	16/11/2026	Ferreira Rénovation	Île-de-France	Sarah Benali	Mobilier	Caisson à tiroirs	3	130,50
+CMD-2593-049	16/11/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Mobilier	Lampe de bureau	3	35,20
+CMD-2593-049	16/11/2026	Bureau D'études Lambert	Grand Est	Léa Muller	Mobilier	Caisson à tiroirs	1	130,50
+CMD-2593-050	16/11/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,50
+CMD-2593-050	16/11/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Papeterie	Enveloppes (boîte de 50)	20	7,50
+CMD-2593-050	16/11/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Classement	Boîte d'archives	20	2,70
+CMD-2593-051	18/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Mobilier	Lampe de bureau	2	35,20
+CMD-2593-051	18/11/2026	Pharmacie De La Basilique	Île-de-France	Sarah Benali	Papeterie	Ramette papier A4	5	5,50
+CMD-2593-052	23/11/2026	Pressing Moderne	Hauts-de-France	Karim Diallo	Informatique	Écran 24 pouces	3	141,10
+CMD-2593-053	25/11/2026	Restaurant Le Saint-Do	Grand Est	Léa Muller	Papeterie	Bloc-notes A5	10	2,50
+CMD-2593-053	25/11/2026	Restaurant Le Saint-Do	Grand Est	Léa Muller	Classement	Chemises cartonnées (lot de 50)	30	13,00
+CMD-2593-054	07/12/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Écriture	Surligneurs (lot de 4)	5	4,50
+CMD-2593-054	07/12/2026	Hôtel Les Tilleuls	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	2	135,30
+CMD-2593-055	07/12/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-2593-055	07/12/2026	Épicerie Nguyen Et Fils	Provence-Alpes-Côte d'Azur	Nadia Haddad	Classement	Boîte d'archives	5	2,70
+CMD-2593-056	08/12/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Écriture	Surligneurs (lot de 4)	2	4,50
+CMD-2593-056	08/12/2026	Traiteur Saveurs D'asie	Île-de-France	Sarah Benali	Informatique	Clé USB 64 Go	1	12,60
+CMD-2593-057	09/12/2026	Pressing Moderne	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	2	6,50
+CMD-2593-058	10/12/2026	Transports Kaya	Grand Est	Léa Muller	Informatique	Clé USB 64 Go	3	12,60
+CMD-2593-058	10/12/2026	Transports Kaya	Grand Est	Léa Muller	Informatique	Souris sans fil	1	17,60
+CMD-2593-059	16/12/2026	Pressing Moderne	Hauts-de-France	Karim Diallo	Mobilier	Chaise de bureau	1	135,30
+CMD-2593-059	16/12/2026	Pressing Moderne	Hauts-de-France	Karim Diallo	Écriture	Stylos bille (boîte de 20)	5	6,50
+CMD-2593-059	16/12/2026	Pressing Moderne	Hauts-de-France	Karim Diallo	Mobilier	Lampe de bureau	3	35,20
+CMD-2593-059	16/12/2026	Pressing Moderne	Hauts-de-France	Karim Diallo	Papeterie	Enveloppes (boîte de 50)	50	7,50
+CMD-2593-060	17/12/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Mobilier	Chaise de bureau	3	135,30
+CMD-2593-060	17/12/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Écriture	Surligneurs (lot de 4)	10	4,50
+CMD-2593-060	17/12/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Informatique	Écran 24 pouces	1	141,10
+CMD-2593-060	17/12/2026	Laboratoire Analyses Plus	Grand Est	Léa Muller	Écriture	Stylos bille (boîte de 20)	10	6,50
